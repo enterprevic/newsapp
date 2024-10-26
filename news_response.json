@@ -1,0 +1,1306 @@
+{
+  "status": "ok",
+  "totalResults": 2934,
+  "articles": [
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Richard Lawler",
+      "title": "A Bank of America outage is showing blanked-out account balances",
+      "description": "Bank of America told customers “some accounts unavailable” on Wednesday, as many people have reported seeing zeroes instead of their account balances.",
+      "url": "https://www.theverge.com/2024/10/2/24260615/bank-of-america-is-down-outage-account-balance-blank-zero",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/SjUL20M77aTSdL2PFpqNg0-fy6k=/0x0:2040x1334/1200x628/filters:focal(1020x667:1021x668)/cdn.vox-cdn.com/uploads/chorus_asset/file/25542552/STK417_MONEY_CVIRGINIA_A.jpg",
+      "publishedAt": "2024-10-02T19:48:11Z",
+      "content": "A Bank of America outage is showing blanked-out account balances\r\nA Bank of America outage is showing blanked-out account balances\r\n / Accounts temporarily unavailable is never what you want to hear … [+1500 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Jess Weatherbed",
+      "title": "Microsoft Paint is getting Photoshop-like generative AI fill and erase features",
+      "description": "Microsoft’s Copilot Plus PCs are getting some new AI-powered editing features for Paint and Photos that could make creatives less reliant on more professional software.",
+      "url": "https://www.theverge.com/2024/10/1/24259239/microsoft-paint-generative-erase-fill-photos-upscaling",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/Vpl9rjbAWoDbUxyHVE0RgS3-iVY=/0x0:3840x2400/1200x628/filters:focal(1920x1200:1921x1201)/cdn.vox-cdn.com/uploads/chorus_asset/file/25652496/Generative_Erase_in_Paint.png",
+      "publishedAt": "2024-10-01T14:00:00Z",
+      "content": "Microsoft Paint is getting Photoshop-like generative AI fill and erase features\r\nMicrosoft Paint is getting Photoshop-like generative AI fill and erase features\r\n / The Paint update allows users to a… [+2117 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Tom Warren",
+      "title": "Microsoft is using AI to improve Windows search",
+      "description": "Microsoft is improving its Windows search across File Explorer and Settings thanks to AI. A new Click to Do feature is also coming to Copilot Plus PCs.",
+      "url": "https://www.theverge.com/2024/10/1/24258337/microsoft-windows-ai-features-click-to-do-super-resolution-photos",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/8s8I7AylXBTh6TJSDcu9rY5P0DY=/0x0:3840x2160/1200x628/filters:focal(1920x1080:1921x1081)/cdn.vox-cdn.com/uploads/chorus_asset/file/25652423/Improved_Windows_Search.png",
+      "publishedAt": "2024-10-01T14:00:00Z",
+      "content": "Illustration by Alex Castro / The Verge\r\n\n \n\n Microsoft is using AI models to greatly improve Windows search on its new Copilot Plus PCs, including the addition of a new Click to Do feature that’s ve… [+4384 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Sean Hollister",
+      "title": "Epic is suing Google — again — and now Samsung too",
+      "description": "Fortnite maker Epic Games has now filed a second antitrust lawsuit against Google, and now additionally Samsung, accusing them of illegally conspiring to undermine third-party app stores.",
+      "url": "https://www.theverge.com/policy/2024/9/30/24256395/epic-sues-google-samsung-antitrust-auto-blocker",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/XqVvq_NIW5O3f9eYz9GU7QZO-KY=/0x0:2040x1360/1200x628/filters:focal(913x528:914x529)/cdn.vox-cdn.com/uploads/chorus_asset/file/25157482/236883_Epic_Vs_Google_10_CVirginia.jpg",
+      "publishedAt": "2024-09-30T11:00:00Z",
+      "content": "Epic is suing Google again and now Samsung too\r\nEpic is suing Google again and now Samsung too\r\n / Tim Sweeney claims theyre colluding to keep new app stores off Samsung phones.\r\nBySean Hollister, a … [+6824 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Antonio G. Di Benedetto",
+      "title": "The Pentax 17 is low-stakes analog photography fun that doesn’t feel like a toy",
+      "description": "The Pentax 17 half-frame film camera is special, and it can save you money by taking twice the pictures on a single 35mm roll. You just have to spend $500 on one first.",
+      "url": "https://www.theverge.com/24261197/pentax-17-35mm-half-frame-analog-point-and-shoot-camera-review",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/PH09Lf7igmyTeFj7mY-gq4uOjCk=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/25656360/100224_Pentax_17_ADiBenedetto_0001.jpg",
+      "publishedAt": "2024-10-04T13:00:00Z",
+      "content": "$500 is a lot for a point-and-shoot film camera, but it rewards you with a joyous experience.\r\nByAntonio G. Di Benedetto, a writer covering tech deals and The Verges Deals newsletter, buying guides, … [+5891 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Andrew Liszewski",
+      "title": "Casio made a furry robot designed to cuddle and calm you down",
+      "description": "Casio’s furry Moflin robot will learn to recognize you the more you interact with it, and over time, it will develop its own simulated personality and emotions.",
+      "url": "https://www.theverge.com/2024/10/11/24268063/casio-robot-pet-moflin",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/V9mxKvVcpz6tOGxJr2sPuTiY_oA=/0x0:1275x851/1200x628/filters:focal(638x426:639x427)/cdn.vox-cdn.com/uploads/chorus_asset/file/25672843/moflin1.jpg",
+      "publishedAt": "2024-10-11T21:17:01Z",
+      "content": "Casio made a furry robot designed to cuddle and calm you down\r\nCasio made a furry robot designed to cuddle and calm you down\r\n / Moflin will develop its own simulated personality and emotions as you … [+2784 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Quentyn Kennemer",
+      "title": "The Beats Pill speaker is even cheaper than it was during Prime Day",
+      "description": "The Beats Pill Bluetooth speaker is $1 cheaper than its all-time low Prime Day price. Plus, you a Fire TV Stick 4K Max Game Pass bundle and AirPods Max are at their lowest.",
+      "url": "https://www.theverge.com/2024/10/11/24267717/beats-pill-speaker-amazon-fire-tv-stick-4k-max-bundle-deal-sale",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/M8ZJfaPzycWL4QWZPUi05OHaysw=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/25504388/DSCF7829.jpg",
+      "publishedAt": "2024-10-11T15:03:33Z",
+      "content": "The Beats Pill speaker is even cheaper than it was during Prime Day\r\nThe Beats Pill speaker is even cheaper than it was during Prime Day\r\n / Plus, you can save $66 on a Fire TV Stick 4K Max Game Pass… [+3874 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Jay Peters",
+      "title": "Epic has a plan for the rest of the decade",
+      "description": "At Unreal Fest this week, Epic CEO Tim Sweeney laid out the next decade of business for the Fortnite creator — including how they get to the metaverse.",
+      "url": "https://www.theverge.com/2024/10/5/24262376/epic-unreal-engine-6-fortnite-metaverse-plans",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/3RBBv9dfiMmMzCnDqij9kRx4J24=/0x0:2040x1360/1200x628/filters:focal(935x590:936x591)/cdn.vox-cdn.com/uploads/chorus_asset/file/23951570/VRG_Illo_STK186_L_Normand_TimSweeney_Neutral.jpg",
+      "publishedAt": "2024-10-05T12:00:00Z",
+      "content": "Epic has a plan for the rest of the decade\r\nEpic has a plan for the rest of the decade\r\n / Tim Sweeney says Epic is now financially sound. Next up, building the next generation of metaverse tools.\r\nB… [+7005 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Charles Pulliam-Moore",
+      "title": "Invincible Fight Girl smashes her way onto Adult Swim this November",
+      "description": "Adult Swim’s Invincible Fight Girl series from executive producer Juston Gordon-Montgomery is set to debut on November 2nd.",
+      "url": "https://www.theverge.com/2024/10/8/24265323/invincible-fight-girl-adult-swim-premiere-date",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/Bc7WC1QpeJFIimnm5t6kqr0sy8k=/0x0:1920x1080/1200x628/filters:focal(960x540:961x541)/cdn.vox-cdn.com/uploads/chorus_asset/file/25664793/IFGL__06.jpg",
+      "publishedAt": "2024-10-08T17:40:13Z",
+      "content": "Invincible Fight Girl smashes her way onto Adult Swim this November\r\nInvincible Fight Girl smashes her way onto Adult Swim this November\r\n / Juston Gordon-Montgomerys new animated action comedy about… [+1591 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Tom Warren",
+      "title": "OneDrive is getting a new mobile app, better search, and colored folders in File Explorer",
+      "description": "Microsoft is rolling out new OneDrive features over the months ahead. A new mobile app, better search, and colored folders in File Explorer are all on the way.",
+      "url": "https://www.theverge.com/2024/10/8/24265312/microsoft-onedrive-mobile-app-search-colored-folders-file-explorer",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/4AGBBM2sOnAP4shbVNVP0zlYUbo=/0x0:975x543/1200x628/filters:focal(488x272:489x273)/cdn.vox-cdn.com/uploads/chorus_asset/file/25664893/Rob_Nunez_1_1728404533921.png",
+      "publishedAt": "2024-10-08T17:48:14Z",
+      "content": "OneDrive is getting a new mobile app, better search, and colored folders in File Explorer\r\nOneDrive is getting a new mobile app, better search, and colored folders in File Explorer\r\n / Microsoft has … [+3056 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Jennifer Pattison Tuohy",
+      "title": "How to send messages via satellite on your iPhone or Pixel",
+      "description": "Apple’s Emergency SOS via satellite and Google’s Satellite SOS services can connect you with 911 when you don’t have reception. Plus, Apple’s new Messages via satellite can help you stay in touch with loved ones.",
+      "url": "https://www.theverge.com/24265288/satellite-messages-iphone-pixel-how-to-send",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/d7ScMsIszjWFJ3hFy314F0MciwA=/720x0:2721x1208/1200x628/filters:focal(1730x479:1731x480)/cdn.vox-cdn.com/uploads/chorus_asset/file/25485431/Screenshot_2024_06_10_at_1.23.44_PM.png",
+      "publishedAt": "2024-10-08T20:42:14Z",
+      "content": "How to send messages via satellite on your iPhone or Pixel\r\nHow to send messages via satellite on your iPhone or Pixel\r\n / Satellite messaging features on iPhones and Pixels can provide a lifeline in… [+6394 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Victoria Song",
+      "title": "The Oura Ring Gen 3 is 20 percent off",
+      "description": "The last-gen Oura Ring is on sale for $281, and it’s a good way to save a bit if you don’t want to pay full price on a smart ring.",
+      "url": "https://www.theverge.com/2024/10/8/24265363/amazon-prime-day-oura-ring-gen-3-smart-ring-wearables-october",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/Ma6GRnpqehMupVjLVEi0B6IAaxs=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23035230/vsong_211117_4890_0010.jpg",
+      "publishedAt": "2024-10-08T18:44:47Z",
+      "content": "The Oura Ring Gen 3 is 20 percent off\r\nThe Oura Ring Gen 3 is 20 percent off\r\n / Its a last-gen model, but this is a neat way to save while inventory still lasts. \r\nByVictoria Song, a senior reporter… [+1592 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Quentyn Kennemer",
+      "title": "You can slap a Pixel Watch 2 on your wrist for just $224 right now",
+      "description": "The Google Pixel Watch 2 has fallen to a new low this weekend. Amazon’s new Fire HD 8 has also received its first discount, as has Apple’s newer MagSafe Charger (2m).",
+      "url": "https://www.theverge.com/2024/10/5/24260725/google-pixel-watch-2-amazon-fire-hd-8-tablet-deal-sale",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/oFQvx6nn40ob5Px56D4p31VH0mM=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24992630/236828_Pixel_Watch_2_AKrales_0830.jpg",
+      "publishedAt": "2024-10-05T18:22:55Z",
+      "content": "You can slap a Pixel Watch 2 on your wrist for just $224 right now\r\nYou can slap a Pixel Watch 2 on your wrist for just $224 right now\r\n / Plus, Amazons new Fire HD 8 tablet is already receiving its … [+3500 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Allison Johnson",
+      "title": "The Google Pixel 8A is just a ridiculously good deal at $379",
+      "description": "Google’s Pixel 8A is marked down 25 percent for Amazon’s Prime Big Deal Days. It’s a solid device that’s easy to recommend to friends and family.",
+      "url": "https://www.theverge.com/2024/10/8/24265214/amazon-prime-day-google-pixel-8a-deal-sale-october",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/r6ejc6rGusx0sDa5YHiUVUsuD9E=/0x0:2000x1333/1200x628/filters:focal(1000x667:1001x668)/cdn.vox-cdn.com/uploads/chorus_asset/file/25451807/DSC07421_processed.jpg",
+      "publishedAt": "2024-10-08T17:59:39Z",
+      "content": "The Google Pixel 8A is just a ridiculously good deal at $379\r\nThe Google Pixel 8A is just a ridiculously good deal at $379\r\n / Lots of bells and whistles for under $400.\r\nByAllison Johnson, a reviewe… [+1419 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Andrew Webster",
+      "title": "The stunning indie game Gris now has a beautiful follow-up about love and loss",
+      "description": "Neva, the follow-up to indie game hit Gris, launches on October 15th for the Nintendo Switch, PS5, Xbox, and PC.",
+      "url": "https://www.theverge.com/24267805/neva-nomada-studio-interview-gris-devolver",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/m26MewqNeqmUzk1lZym1r35K1L0=/0x0:3840x2160/1200x628/filters:focal(1903x1320:1904x1321)/cdn.vox-cdn.com/uploads/chorus_asset/file/25671089/Neva_13.png",
+      "publishedAt": "2024-10-14T16:00:00Z",
+      "content": "The stunning indie game Gris now has a beautiful follow-up about love and loss\r\nThe stunning indie game Gris now has a beautiful follow-up about love and loss\r\n / Neva launches on October 15th and in… [+4478 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Esther Cohen",
+      "title": "A long time ago, we used to be friends",
+      "description": "Watching TV with the rest of the internet.",
+      "url": "https://www.theverge.com/c/24210296/veronica-mars-lost-recaps-internetonline-tv-show",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/rCDengbT4puT3zgKKVHZ7JNC4iw=/138x217:1902x1143/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/25553644/2004_TV_CHORUS_LEDE_1.jpg",
+      "publishedAt": "2024-10-16T13:00:00Z",
+      "content": "A lot has been said about TV in 2004. That it was the best year of television of all time, the peak of the Golden Age of television. Or maybe that it was the year reality television became too much, … [+4680 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Jay Peters",
+      "title": "Airbnb can now help you find somebody to manage your listing",
+      "description": "Airbnb’s new “Co-Host Network,” available as part of the company’s 2024 Winter Release, lets you compare and work co-hosts right inside the app.",
+      "url": "https://www.theverge.com/2024/10/16/24271838/airbnb-co-host-network-manage-listing-2024-winter-release",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/ZbKJTe4dsbXL3qNy_labFk3vFzM=/0x0:2040x1361/1200x628/filters:focal(1020x681:1021x682)/cdn.vox-cdn.com/uploads/chorus_asset/file/23962502/acastro_STK090_06.jpg",
+      "publishedAt": "2024-10-16T16:30:04Z",
+      "content": "Airbnb can now help you find somebody to manage your listing\r\nAirbnb can now help you find somebody to manage your listing\r\n / The new Co-Host Network lets you compare co-hosts right inside the app.\r… [+1741 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Andrew Liszewski",
+      "title": "These boxes will send Dolby Atmos through your home’s power lines",
+      "description": "Trade speaker cables for your home’s existing electrical wiring with Fasetto’s Dolby Atmos-certified Audio Cu system that sends audio signals through power lines.",
+      "url": "https://www.theverge.com/2024/10/1/24259598/fasetto-dolby-atmos-audio-cu-speakers-power-lines",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/-5MA2yxOfFdfOZmwY8Ld0xuEjyE=/0x0:945x630/1200x628/filters:focal(473x315:474x316)/cdn.vox-cdn.com/uploads/chorus_asset/file/25653001/audiocu.jpg",
+      "publishedAt": "2024-10-01T20:07:50Z",
+      "content": "These boxes will send Dolby Atmos through your homes power lines\r\nThese boxes will send Dolby Atmos through your homes power lines\r\n / Fasettos Audio Cu system, which sends audio data to speakers ove… [+2348 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Andrew Liszewski",
+      "title": "Bose’s new SoundLink Home is one of its best-looking wireless speakers",
+      "description": "Bose’s new $219 SoundLink Home Bluetooth speaker is available now with nine hours of battery life and a stylish anodized aluminum design.",
+      "url": "https://www.theverge.com/2024/10/1/24259408/bose-bluetooth-wireless-speaker-soundlink-home",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/U9wFUMDsUsWYAcf64LpV7yNi5Go=/0x0:1824x1216/1200x628/filters:focal(1002x593:1003x594)/cdn.vox-cdn.com/uploads/chorus_asset/file/25652922/bosesocial.jpg",
+      "publishedAt": "2024-10-01T17:15:09Z",
+      "content": "Boses new SoundLink Home is one of its best-looking wireless speakers\r\nBoses new SoundLink Home is one of its best-looking wireless speakers\r\n / The $219 Bose SoundLink Home is available now with nin… [+1569 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Wes Davis",
+      "title": "The next iPhone SE may lose the home button, add Face ID and Apple Intelligence",
+      "description": "Apple is rumored to be readying the next iPhone SE, complete with Face ID and Apple Intelligence, for manufacturing ahead of a release early next year.",
+      "url": "https://www.theverge.com/2024/10/1/24259713/iphone-se-face-id-apple-intelligence-no-home-button",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/MbjCZjLVIYqaZv9ECL97xwJ_b4w=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24020915/226270_IPHONE_14_REGULAR_PHO_akrales_0657.jpg",
+      "publishedAt": "2024-10-01T21:01:28Z",
+      "content": "The next iPhone SE may lose the home button, add Face ID and Apple Intelligence\r\nThe next iPhone SE may lose the home button, add Face ID and Apple Intelligence\r\n / Apple will announce its next budge… [+1334 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Nilay Patel",
+      "title": "NBCU’s streaming chief isn’t worried about you canceling cable",
+      "description": "The head of direct-to-consumer video at NBCUniversal says the cable business is good and streaming is great.",
+      "url": "https://www.theverge.com/24258301/matt-strauss-peacock-nbc-comcast-olympics-sports-direct-to-consumer-video-streaming",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/lqwTy7m12JuZJi6OjgSutJ7yhxE=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/25650758/DCD_Matt_Strauss.jpg",
+      "publishedAt": "2024-09-30T15:00:00Z",
+      "content": "Matt Strauss, head of Peacock and global streaming, has plans to keep you watching. Today, I’m talking with Matt Strauss, who is the chairman of direct-to-consumer at NBCUniversal. That’s a big fancy… [+65636 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Wes Davis",
+      "title": "The Optimus robots at Tesla’s Cybercab event were humans in disguise",
+      "description": "Tesla’s Optimus robots’ natural responses and smooth motions were made possible by human control behind the scenes at the Cybercab reveal event.",
+      "url": "https://www.theverge.com/2024/10/13/24269131/tesla-optimus-robots-human-controlled-cybercab-we-robot-event",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/jq-Pci6nHkoR49MEHOR_W64beuE=/0x0:2050x1360/1200x628/filters:focal(1025x680:1026x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/25675214/Cowboy_Optimus.png",
+      "publishedAt": "2024-10-13T17:55:32Z",
+      "content": "An Optimus robot at the We, Robot event. | Screenshot: Tesla We, Robot livestream\r\n\n \n\n Tesla made sure its Optimus robots were a big part of its extravagant, in-person Cybercab reveal last week. The… [+2506 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Lauren Feiner",
+      "title": "FCC chair rejects Trump’s call to revoke CBS license over Harris interview edit",
+      "description": "The Federal Communications Commission rejected Trump’s call to revoke CBS’s broadcast license due to sharing two edits of Harris’ response to an interview question.",
+      "url": "https://www.theverge.com/2024/10/10/24267054/fcc-chair-rosenworcel-trump-harris-60-minutes-cbs-license",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/R0TqwDHH6tJjdQ_ZIWeCZ1cnU08=/0x0:4000x2667/1200x628/filters:focal(2000x1334:2001x1335)/cdn.vox-cdn.com/uploads/chorus_asset/file/25669542/2170653437.jpg",
+      "publishedAt": "2024-10-10T17:58:08Z",
+      "content": "FCC chair rejects Trumps call to revoke CBS license over Harris interview edit\r\nFCC chair rejects Trumps call to revoke CBS license over Harris interview edit\r\n / CBS shared two different versions of… [+2004 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Andrew Webster",
+      "title": "Persona director says making beautiful menus is ‘actually really annoying’",
+      "description": "Katsura Hashino, director of games like Persona 5 and Metaphor: ReFantazio, explains why these RPGs have such beautiful and memorable menus.",
+      "url": "https://www.theverge.com/2024/10/7/24262357/persona-metaphor-menu-design",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/6fwevGVcixcDzpRuIUUkY4VU060=/0x0:3840x2160/1200x628/filters:focal(1920x1080:1921x1081)/cdn.vox-cdn.com/uploads/chorus_asset/file/25658719/ss_6956a6d6ff1745101aa0cd4a8445ff2d19853bfa.jpg",
+      "publishedAt": "2024-10-07T14:30:00Z",
+      "content": "Persona director says making beautiful menus is actually really annoying\r\nPersona director says making beautiful menus is actually really annoying\r\n / It takes a lot of time, Katsura Hashino explains… [+2060 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Umar Shakir",
+      "title": "GM’s PowerBank home battery is now available",
+      "description": "GM Energy’s PowerBank home battery system is now available in a system bundle or as an add-on. The full kit costs $12,700.",
+      "url": "https://www.theverge.com/2024/10/10/24266440/gm-home-battery-powerbank-launch",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/4H6TJWOOl5iNsNirPd30TlqAkZI=/0x0:5000x3333/1200x628/filters:focal(2500x1667:2501x1668)/cdn.vox-cdn.com/uploads/chorus_asset/file/25667450/GM_Energy_HomeSystem_Family_01_1x1_Website.jpg",
+      "publishedAt": "2024-10-10T13:00:00Z",
+      "content": "GMs PowerBank home battery is now available\r\nGMs PowerBank home battery is now available\r\n / The stationary battery pack can be added to existing GM Energy vehicle-to-home power systems.\r\nByUmar Shak… [+1803 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Antonio G. Di Benedetto",
+      "title": "Where to preorder the PS5 Pro and PlayStation’s 30th anniversary collection",
+      "description": "The upcoming PlayStation 5 Pro is up for preorder alongside Sony’s 30th anniversary PlayStation collection. Here’s where you can lock yours in ahead of November.",
+      "url": "https://www.theverge.com/24252575/sony-ps5-pro-playstation-5-preorder-buy-price-release-date",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/Xs-8Ef0PauN-KxMar6QkqsL50Hk=/0x0:2700x1800/1200x628/filters:focal(1350x900:1351x901)/cdn.vox-cdn.com/uploads/chorus_asset/file/25630898/ps5_pro_sean_hollister_verge_003.jpg",
+      "publishedAt": "2024-09-26T13:45:01Z",
+      "content": "Where to preorder the PS5 Pro and PlayStations 30th anniversary collection\r\nWhere to preorder the PS5 Pro and PlayStations 30th anniversary collection\r\n / Sonys latest flagship console launches Novem… [+5902 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Charles Pulliam-Moore",
+      "title": "John Wick: Ballerina passes the torch to a tiny dancer in first trailer",
+      "description": "​​From the World of John Wick: Ballerina doesn’t have a release date yet, but its first trailer is cooking with heat.",
+      "url": "https://www.theverge.com/2024/9/26/24255157/john-wick-ballerina-trailer",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/bJ2W4Oi-IWj2lLiHTrzZkdRzLls=/0x0:3600x1496/1200x628/filters:focal(1805x640:1806x641)/cdn.vox-cdn.com/uploads/chorus_asset/file/25643970/ballerina_trailer1_INTL_t_239_r709_UHD_20240917_PR4444.00_01_30_19.Still002_REVRC_rgb.jpg",
+      "publishedAt": "2024-09-26T17:24:51Z",
+      "content": "John Wick: Ballerina passes the torch to a tiny dancer in first trailer\r\nJohn Wick: Ballerina passes the torch to a tiny dancer in first trailer\r\n / Ana de Armas is channeling her inner Black Widow i… [+1439 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Adi Robertson",
+      "title": "Pokémon developer faces major data leak",
+      "description": "Pokémon video game developer Game Freak has confirmed a major data leak, which includes information about employees as well as details and source code from past games.",
+      "url": "https://www.theverge.com/2024/10/14/24270226/pokemon-game-freak-data-leak-confirmed",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/98N-SX4Hfdq24eaA0RJDnKnkBFk=/0x0:1920x1080/1200x628/filters:focal(960x540:961x541)/cdn.vox-cdn.com/uploads/chorus_asset/file/25677371/Switch_PokemonSwordPokemonShield_ExpansionPass_screen_06.jpg",
+      "publishedAt": "2024-10-14T20:59:22Z",
+      "content": "Pokémon developer faces major data leak\r\nPokémon developer faces major data leak\r\n / Game Freak said the leak came from a third-party intrusion.\r\nByAdi Robertson, a senior tech and policy editor focu… [+2913 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Chris Welch",
+      "title": "Sonos announces ‘breakthrough’ Arc Ultra soundbar and Sub 4",
+      "description": "The new $999 Sonos Arc Ultra offers even more immersive and more powerful audio than the original Arc thanks to the inclusion of the company’s Sound Motion technology.",
+      "url": "https://www.theverge.com/2024/10/15/24270677/sonos-arc-ultra-soundbar-sub-4-announced",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/qgr4DDjVfb0SpLt2FrVdVE9CtUQ=/0x0:2685x1990/1200x628/filters:focal(1343x995:1344x996)/cdn.vox-cdn.com/uploads/chorus_asset/file/25678420/arcultra1.jpg",
+      "publishedAt": "2024-10-15T13:13:14Z",
+      "content": "Sonos announces breakthrough Arc Ultra soundbar and Sub 4\r\nSonos announces breakthrough Arc Ultra soundbar and Sub 4\r\n / The soundbar contains new Sound Motion technology that, according to Sonos, ma… [+2559 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Jess Weatherbed",
+      "title": "Arlo is launching its first wired floodlight camera",
+      "description": "Arlo is releasing a new floodlight security camera that connects directly to your home’s Wi-Fi and power source, sparing you from recharging any batteries.",
+      "url": "https://www.theverge.com/2024/10/15/24268054/arlo-wired-floodlight-camera-price-availability",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/VNnw3IpMVO98yJpCc0H49qoJSHc=/0x0:4303x2871/1200x628/filters:focal(2152x1436:2153x1437)/cdn.vox-cdn.com/uploads/chorus_asset/file/25672818/Arlo_Wired_Floodlight_Hero.jpg",
+      "publishedAt": "2024-10-15T12:00:00Z",
+      "content": "Arlo is launching its first wired floodlight camera\r\nArlo is launching its first wired floodlight camera\r\n / It costs $150 and features articulating lights to illuminate specific areas.\r\nByJess Weath… [+2136 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Joanna Nelius",
+      "title": "Melodrama!",
+      "description": "How one website you’ve probably never heard of helped me be myself online.",
+      "url": "https://www.theverge.com/c/24201735/melodrama-com-website-community-2004-melo",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/S4qYW30EtYrxd-L9eOBTiVuO-f0=/138x217:1902x1143/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/25537596/CHORUS_LEDE.png",
+      "publishedAt": "2024-10-17T12:30:00Z",
+      "content": "In 2004, I was an undiagnosed neurodivergent teenager who had given up on trying to fit in. It felt like everyone was trying to mold me into their version of perfect by chastising me when I did somet… [+8879 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Andrew J. Hawkins",
+      "title": "Cruise lost $435 million this quarter, even with its robotaxis on hiatus",
+      "description": "GM reported that Cruise lost $435 million in the third quarter of 2024, down from $791 million in losses last year. The company’s robotaxis have been on hiatus since a crash in 2023.",
+      "url": "https://www.theverge.com/2024/10/22/24276670/cruise-gm-loss-q3-2024-driverless-robotaxi",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/AEA_bXl9Km8V4-CE9MKIWtF9hd0=/0x0:5712x3808/1200x628/filters:focal(2856x1904:2857x1905)/cdn.vox-cdn.com/uploads/chorus_asset/file/25693074/1744189986.jpg",
+      "publishedAt": "2024-10-22T14:46:59Z",
+      "content": "Cruise lost $435 million this quarter, even with its robotaxis on hiatus\r\nCruise lost $435 million this quarter, even with its robotaxis on hiatus\r\n / GM needs to prove driverless cars can be safe, b… [+3684 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Wes Davis",
+      "title": "Kevin Bacon, Kate McKinnon, and other creatives warn of ‘unjust’ AI threat",
+      "description": "Over 11,000 creatives have signed a statement accusing unpermitted AI model training on copyrighted work of being an existential threat to their work.",
+      "url": "https://www.theverge.com/2024/10/22/24276994/ai-statement-training-data-copyright-threat-actors-authors-musicians-kevin-bacon-kate-mckinnon",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/1im3ZgLeERN7CpyGHISq0IwfXLo=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24440561/AI_art_chat_H_Jeong_1.jpg",
+      "publishedAt": "2024-10-22T22:06:14Z",
+      "content": "Kevin Bacon, Kate McKinnon, and other creatives warn of unjust AI threat\r\nKevin Bacon, Kate McKinnon, and other creatives warn of unjust AI threat\r\n / A statement signed by 11,500 creatives including… [+1927 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Jay Peters",
+      "title": "Brazilian police arrested the hacker who stole everyone’s SSN",
+      "description": "Brazil’s federal police says it has arrested the hacker linked to the massive National Public Data hack that leaked 272 million Social Security numbers.",
+      "url": "https://www.theverge.com/2024/10/17/24272271/brazilian-police-usdod-hacker-arrest-national-public-data",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/sCmNW1WQui173vJSZ5jcDGRH8bQ=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23318433/akrales_220309_4977_0182.jpg",
+      "publishedAt": "2024-10-17T19:10:09Z",
+      "content": "Brazilian police arrested the hacker who stole everyones SSN\r\nBrazilian police arrested the hacker who stole everyones SSN\r\n / Operation Data Breach may have found its target, but that wont secure mo… [+1720 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Ash Parrish",
+      "title": "Netflix closes AAA game studio before it ever released a game",
+      "description": "Netflix has quietly shut down one of its gaming studios, the first publicly disclosed shuttering since Netflix began its gaming program in 2021.",
+      "url": "https://www.theverge.com/2024/10/22/24276700/netflix-gaming-studio-closure-blue",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/ScXzGQ8lrcWwmyFEyuCWvqtTjPE=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23951360/STK072_VRG_Illo_N_Barclay_8_netflix.jpg",
+      "publishedAt": "2024-10-22T15:23:28Z",
+      "content": "Netflix closes AAA game studio before it ever released a game\r\nNetflix closes AAA game studio before it ever released a game\r\n / The studio, known as Blue, was developing a multiplatform AAA game for… [+1712 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Jess Weatherbed",
+      "title": "Meta brings back face scanning to combat scams and account hacking",
+      "description": "Facebook and Instagram are testing new facial recognition tools that could help users quickly restore compromised accounts and combat fake celebrity-endorsed scams.",
+      "url": "https://www.theverge.com/2024/10/22/24276593/meta-facebook-instagram-facial-recognition-tools-test-celeb-bait",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/-_BU3_aGSOMK1HkXINTd7V3vLOU=/0x0:1536x864/1200x628/filters:focal(768x432:769x433)/cdn.vox-cdn.com/uploads/chorus_asset/file/25692971/Meta_facial_recogition.jpg",
+      "publishedAt": "2024-10-22T12:19:05Z",
+      "content": "Meta brings back face scanning to combat scams and account hacking\r\nMeta brings back face scanning to combat scams and account hacking\r\n / The tech coming to Instagram and Facebook was previously axe… [+2760 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Andrew Liszewski",
+      "title": "Insta360’s GoPro competitor now has a bigger screen and improved 8K capabilities",
+      "description": "Insta360’s new Ace Pro 2 features a larger, brighter screen, 8K video recording capabilities, and is powered by a pair of chips, improving its low-light recording capabilities.",
+      "url": "https://www.theverge.com/2024/10/22/24256250/insta360-ace-pro-2-action-camera-gopro",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/D7KLqxjLBUhKHoyM1Yg_2VX488o=/0x0:2500x1667/1200x628/filters:focal(1250x834:1251x835)/cdn.vox-cdn.com/uploads/chorus_asset/file/25687327/insta360_1.jpg",
+      "publishedAt": "2024-10-22T13:00:00Z",
+      "content": "Insta360s GoPro competitor now has a bigger screen and improved 8K capabilities\r\nInsta360s GoPro competitor now has a bigger screen and improved 8K capabilities\r\n / The Ace Pro 2 features an image pr… [+3841 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Quentyn Kennemer",
+      "title": "The smartphone-like Boox Palma ebook reader hits a record low price",
+      "description": "The original Boox Palma ebook reader is down to a new all-time low price of $246. The smartphone-like Android device doesn’t lock you into any one ecosystem, either.",
+      "url": "https://www.theverge.com/2024/10/23/24277569/boox-palma-ebook-reader-deal-sale",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/Rw6J1m0GLDnfUwdulaaSiw-GbXA=/0x0:1372x915/1200x628/filters:focal(686x458:687x459)/cdn.vox-cdn.com/uploads/chorus_asset/file/25691163/booxpalma3.jpg",
+      "publishedAt": "2024-10-23T15:40:49Z",
+      "content": "The smartphone-like Boox Palma ebook reader hits a record low price\r\nThe smartphone-like Boox Palma ebook reader hits a record low price\r\n / Theres a new version on the way, but you can save $34 on t… [+2731 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Andrew Liszewski",
+      "title": "Lomography’s new instant camera uses a glass lens for sharper photos",
+      "description": "Lomography’s new Lomo’Instant Wide Glass camera features an upgraded 90mm glass lens for potentially sharper results while using Fujifilm Instax Wide stock.",
+      "url": "https://www.theverge.com/2024/10/23/24277617/lomography-lomo-instant-wide-glass-camera-photography-fujifilm-instax-wide",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/EisYw-nrs1oIcgBPg8hRI_jo9x8=/0x0:1600x1066/1200x628/filters:focal(800x533:801x534)/cdn.vox-cdn.com/uploads/chorus_asset/file/25694796/lomo1.jpg",
+      "publishedAt": "2024-10-23T16:26:18Z",
+      "content": "Lomographys new instant camera uses a glass lens for sharper photos\r\nLomographys new instant camera uses a glass lens for sharper photos\r\n / The new LomoInstant Wide Glass features a 90mm multi-coate… [+2709 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Jay Peters",
+      "title": "Humane slashes the price of its AI Pin after weak sales",
+      "description": "Humane has lowered the price of its AI Pin from $699 to $499 following poor reviews and an onslaught of returns.",
+      "url": "https://www.theverge.com/2024/10/23/24277964/humane-slashes-ai-pin-price-weak-sales",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/tVZXS262pOXZ-GMBEyks-r5Ff7w=/0x0:2700x1800/1200x628/filters:focal(1135x1045:1136x1046)/cdn.vox-cdn.com/uploads/chorus_asset/file/25379093/247075_Humane_AI_pin_AKrales_0120.jpg",
+      "publishedAt": "2024-10-23T20:21:33Z",
+      "content": "Photo by Amelia Holowaty Krales / The Verge\r\n\n \n\n Humane is dropping the price of the AI Pin by $200 in an attempt to reverse the AI gadget’s very poor sales. The product launched earlier this year a… [+1161 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Umar Shakir",
+      "title": "UnitedHealth data breach leaked info on over 100 million people",
+      "description": "UnitedHealth’s Change Healthcare told the US Health Department it has sent over 100 million notices to people regarding the February ransomware breach.",
+      "url": "https://www.theverge.com/2024/10/25/24279288/unitedhealth-change-breach-100-million-leak",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/kZIjcB1NVDs7G1vyipuusg4BMfo=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23318429/akrales_220309_4977_0014.jpg",
+      "publishedAt": "2024-10-25T15:19:33Z",
+      "content": "UnitedHealth data breach leaked info on over 100 million people\r\nUnitedHealth data breach leaked info on over 100 million people\r\n / The February ransomware attack on Change Healthcare coughed up Soc… [+2477 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Jess Weatherbed",
+      "title": "Raspberry Pi and Sony made an AI-powered camera module",
+      "description": "Raspberry Pi and Sony have co-developed a $70 Raspberry Pi AI Camera module that can help Raspberry Pi users to develop “edge AI solutions that process visual data.”",
+      "url": "https://www.theverge.com/2024/9/30/24258134/raspberry-pi-ai-camera-module-sony-price-availability",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/BJYpDnQN2FgjUIG9HuwFk75SDPY=/0x0:544x367/1200x628/filters:focal(272x184:273x185)/cdn.vox-cdn.com/uploads/chorus_asset/file/25650478/Raspberry_Pi_AI_camera_front_view.jpg",
+      "publishedAt": "2024-09-30T08:53:02Z",
+      "content": "Raspberry Pi and Sony made an AI-powered camera module\r\nRaspberry Pi and Sony made an AI-powered camera module\r\n / The $70 AI Camera works with all Raspberry Pi microcomputers, without requiring addi… [+1690 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Andrew Webster",
+      "title": "Death Stranding 2’s photo mode looks wild",
+      "description": "At TGS 2024, Hideo Kojima revealed a series of clips for the upcoming game Death Stranding 2, including a trailer featuring its photo mode.",
+      "url": "https://www.theverge.com/2024/9/30/24258230/death-stranding-2-photo-mode-trailer-tgs-2024",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/YHIqFuqmLrHAWfS2WEYiiJw-nCA=/0x0:1920x1080/1200x628/filters:focal(960x540:961x541)/cdn.vox-cdn.com/uploads/chorus_asset/file/25579673/ds2_sop2024_screenshot005.jpg",
+      "publishedAt": "2024-09-30T13:57:22Z",
+      "content": "Image: Kojima Productions\r\n\n \n\n The 2024 edition of Tokyo Game Show took place over the weekend, and one of the highlights was a presentation from Death Stranding 2 studio Kojima Productions. And it … [+2756 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Wes Davis",
+      "title": "Marvel and DC lose ‘SUPER HERO’ trademarks",
+      "description": "The creator of an independent children’s comic series called Superbabies successfully challenged super hero-related trademarks owned by Marvel and DC.",
+      "url": "https://www.theverge.com/2024/9/29/24257677/marvel-dc-super-hero-trademark-canceled-challenge-superbabies",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/1KREUR6hxO_30cRP4GHixXI0Phs=/0x0:4928x3280/1200x628/filters:focal(2464x1640:2465x1641)/cdn.vox-cdn.com/uploads/chorus_asset/file/25649745/2089852195.jpg",
+      "publishedAt": "2024-09-29T20:32:30Z",
+      "content": "Marvel and DC lose SUPER HERO trademarks\r\nMarvel and DC lose SUPER HERO trademarks\r\n / A challenge from a childrens comic series has invalidated long-held super hero trademarks owned by Marvel and DC… [+1736 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Gaby Del Valle",
+      "title": "A deepfake caller pretending to be a Ukrainian official almost tricked a US Senator",
+      "description": "The caller, who posed as Ukraine’s former foreign minister, asked Sen. Benjamin Cardin ‘politically charged questions in relation to the upcoming election.’",
+      "url": "https://www.theverge.com/2024/9/26/24255179/deepfake-call-ukraine-senator-cardin-dmytro-kuleba",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/B7Ahl3_RpYu8meWic1DY0TkLT-c=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/25330621/STK419_DEEPFAKE_CVIRGINIA_G.jpg",
+      "publishedAt": "2024-09-26T17:54:23Z",
+      "content": "A deepfake caller pretending to be a Ukrainian official almost tricked a US Senator\r\nA deepfake caller pretending to be a Ukrainian official almost tricked a US Senator\r\n / The caller, who looked and… [+2912 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Ash Parrish",
+      "title": "Twitch’s BibleThump will soon go to emote heaven",
+      "description": "Due to rights expiration, the popular Twitch emote BibleThump, taken from 2011’s The Binding of Isaac, will soon be discontinued from the platform.",
+      "url": "https://www.theverge.com/2024/9/26/24255122/twitch-biblethump-emote-binding-of-isaac",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/Pm021YVVi-JaiOxgg1XzRLcZLzc=/0x0:1920x1080/1200x628/filters:focal(960x540:961x541)/cdn.vox-cdn.com/uploads/chorus_asset/file/25644498/binding_of_isaac.png",
+      "publishedAt": "2024-09-26T18:12:31Z",
+      "content": "Twitchs BibleThump will soon go to emote heaven\r\nTwitchs BibleThump will soon go to emote heaven\r\n / The popular Twitch emote from The Binding of Isaac will soon be unavailable due to rights expirati… [+2227 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Antonio G. Di Benedetto",
+      "title": "Leica made a second Q3 camera with a new lens and even higher price",
+      "description": "The Leica Q3 43 is a new offshoot of the Q3 with an APO-Summicron 43mm f/2 ASPH. lens instead of a 28mm. It’s nearly identical otherwise, except for its even higher price.",
+      "url": "https://www.theverge.com/2024/9/26/24254024/leica-q3-43-full-frame-fixed-lens-43mm-camera-price-specs",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/ZoMuDh6UNz_ImDZ5vYhYbKqFqBU=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/25640829/19084_Leica_Q3_43_Ambient_09_HiRes_crop.jpg",
+      "publishedAt": "2024-09-26T13:00:00Z",
+      "content": "Leica made a second Q3 camera with a new lens and even higher price\r\nLeica made a second Q3 camera with a new lens and even higher price\r\n / The Q3 43 is nearly identical to the current Q3, but with … [+3397 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Jess Weatherbed",
+      "title": "Google Maps is cracking down on fake reviews",
+      "description": "Google Maps is imposing restrictions on business pages believed to be using or soliciting fake reviews, and will warn users when fake reviews have been deleted.",
+      "url": "https://www.theverge.com/2024/9/26/24254882/google-maps-removing-fake-business-reviews-warning-message",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/JKqhXxuLsg12_iJcI8tUVxeB30Y=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/25472454/STK270_GOOGLE_MAPS_D.png",
+      "publishedAt": "2024-09-26T11:13:15Z",
+      "content": "Google Maps is cracking down on fake reviews\r\nGoogle Maps is cracking down on fake reviews\r\n / The service will now restrict reviews on places that post fakes, and warn users about such behavior.\r\nBy… [+1827 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Tom Warren",
+      "title": "AMD improves Zen 5 CPU latency and performance with BIOS updates",
+      "description": "AMD is bumping the performance of some of its Zen 5 desktop CPUs. A new BIOS update will also address some latency concerns with AMD’s latest CPUs.",
+      "url": "https://www.theverge.com/2024/9/30/24258147/amd-zen-5-cpu-performance-latency-bios-updates",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/AcAa1rWT0qB3BuEclb5m7HO5qG0=/0x0:3840x2160/1200x628/filters:focal(1920x1080:1921x1081)/cdn.vox-cdn.com/uploads/chorus_asset/file/25474479/Ryzen_9000_7.png",
+      "publishedAt": "2024-09-30T13:00:00Z",
+      "content": "AMD improves Zen 5 CPU latency and performance with BIOS updates\r\nAMD improves Zen 5 CPU latency and performance with BIOS updates\r\n / Windows and BIOS updates are improving the Ryzen 9000-series per… [+2520 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Tom Warren",
+      "title": "Microsoft starts rolling out its Windows 11 2024 update with lots of useful improvements",
+      "description": "Microsoft’s latest Windows 11 2024 update is now rolling out. It includes improvements to the Start menu, File Explorer, system tray, and Settings.",
+      "url": "https://www.theverge.com/2024/10/1/24258260/microsoft-windows-11-2024-update-24h2-download",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/pn0m7T2Z1eOSDPuU8ppSzy2k39g=/0x0:1920x1080/1200x628/filters:focal(960x540:961x541)/cdn.vox-cdn.com/uploads/chorus_asset/file/22679323/Hero_Bloom_Logo.jpg",
+      "publishedAt": "2024-10-01T14:00:00Z",
+      "content": "Image: Microsoft\r\n\n \n\n Microsoft is starting to release its Windows 11 2024 update today, also known as version 24H2. This update includes a number of small but useful additions to Windows 11 that im… [+5127 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Lauren Feiner",
+      "title": "How to watch the vice presidential debate between Tim Walz and JD Vance",
+      "description": "Minnesota Governor Tim Walz and Ohio Sen. JD Vance, each nominees for vice president, will debate onstage during a CBS broadcast at 9PM ET on Tuesday.",
+      "url": "https://www.theverge.com/2024/10/1/24258376/vice-presidential-debate-tim-walz-jd-vance-watch-time-date-stream",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/vJombjrF47qQ0LbnLurQoTPlxQc=/0x0:2040x1334/1200x628/filters:focal(1020x667:1021x668)/cdn.vox-cdn.com/uploads/chorus_asset/file/25651220/STK206_STK204_JD_VANCE_TIM_WALZ_A.jpg",
+      "publishedAt": "2024-10-01T14:00:00Z",
+      "content": "How to watch the vice presidential debate between Tim Walz and JD Vance\r\nHow to watch the vice presidential debate between Tim Walz and JD Vance\r\n / On Tuesday night, the former school teacher will m… [+3420 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Tom Warren",
+      "title": "Microsoft wants to know why some game developers aren’t on Xbox",
+      "description": "Microsoft is looking for Xbox feedback from game developers. The Xbox Research team wants to know about all the pain points in bringing games to Xbox.",
+      "url": "https://www.theverge.com/2024/10/2/24260296/microsoft-xbox-research-developers-outreach",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/C42ng1xfpS8wr1NvZTEGmN_518c=/0x0:1920x1080/1200x628/filters:focal(960x540:961x541)/cdn.vox-cdn.com/uploads/chorus_asset/file/25654364/XboxResearchHERO.jpg",
+      "publishedAt": "2024-10-02T15:13:46Z",
+      "content": "Image: Microsoft\r\n\n \n\n Microsoft wants to hear from game developers that might be skipping Xbox, or those already building games using the company’s developer tools. The software maker is expanding i… [+3498 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Andrew J. Hawkins",
+      "title": "Waymo is adding the Hyundai Ioniq 5 to its robotaxi fleet",
+      "description": "Waymo’s next robotaxi will be the Hyundai Ioniq 5. The two companies are forming a multiyear partnership that will see the EV added to Waymo’s fleet in a few years.",
+      "url": "https://www.theverge.com/2024/10/4/24261357/waymo-hyundai-ioniq-5-robotaxi-partnership",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/pIWQPlSlm-uFYRFUbNxcoMub8Bk=/0x0:7818x4398/1200x628/filters:focal(3909x2199:3910x2200)/cdn.vox-cdn.com/uploads/chorus_asset/file/25656664/WAYMO_X_HMC_100424.png",
+      "publishedAt": "2024-10-04T10:00:00Z",
+      "content": "Waymo is adding the Hyundai Ioniq 5 to its robotaxi fleet\r\nWaymo is adding the Hyundai Ioniq 5 to its robotaxi fleet\r\n / Waymo has entered into a strategic, multiyear partnership with the South Korea… [+3941 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Nick Statt",
+      "title": "The toxic transformation of Warcraft maker Blizzard",
+      "description": "Journalist Jason Schreier discusses his new book, Play Nice: The Rise, Fall, and Future of Blizzard Entertainment.",
+      "url": "https://www.theverge.com/2024/10/3/24260550/blizzard-entertainment-play-nice-jason-schreier-activision-gaming-microsoft-xbox-decoder-interview",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/aiAISDM330HZpAwxtFnPVZ3KpWY=/0x0:2760x1839/1200x628/filters:focal(1795x878:1796x879)/cdn.vox-cdn.com/uploads/chorus_asset/file/25654793/decoder.png",
+      "publishedAt": "2024-10-03T14:00:00Z",
+      "content": "Journalist Jason Schreier discusses his new book, Play Nice: The Rise, Fall, and Future of Blizzard Entertainment.\r\nByNick Statt, a Senior Producer on Decoder. Previously, he wrote about technology a… [+4018 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Sean Hollister",
+      "title": "DJI sues the US Department of Defense for labeling it a ‘Chinese Military Company’",
+      "description": "DJI, the world’s largest drone company, is suing to avoid being seen as a tool of the Chinese government. On Friday, it sued the US Department of Defense.",
+      "url": "https://www.theverge.com/2024/10/19/24274153/dji-sues-us-dod-chinese-military-company",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/3jWyUi0eLLwaR0liGcH_X7Juz8Y=/0x0:5326x3551/1200x628/filters:focal(3632x1958:3633x1959)/cdn.vox-cdn.com/uploads/chorus_asset/file/24608113/Mavic_3_Pro_RC_Pro_lifestyle_2.jpg",
+      "publishedAt": "2024-10-19T07:28:04Z",
+      "content": "DJI sues the US Department of Defense for labeling it a Chinese Military Company\r\nDJI sues the US Department of Defense for labeling it a Chinese Military Company\r\n / The dronemaker claims the DoD ha… [+4370 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Justine Calma",
+      "title": "Amazon says it ditched plastic air pillows",
+      "description": "Amazon says it has gotten rid of plastic air pillows at warehouses around the world.",
+      "url": "https://www.theverge.com/2024/10/21/24276049/amazon-plastic-air-pillows-packaging",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/qwYo7XAE3Loy8QPMmJjRKrCLWAY=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23935561/acastro_STK103__04.jpg",
+      "publishedAt": "2024-10-21T20:01:28Z",
+      "content": "Amazon says it ditched plastic air pillows\r\nAmazon says it ditched plastic air pillows\r\n / The company says it got rid of air-filled plastic at its fulfillment centers.\r\nAmazon says that it has gotte… [+1745 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Jess Weatherbed",
+      "title": "Adobe Max 2024: All the major announcements around design and AI",
+      "description": "Here’s everything announced at this year’s Adobe Max conference, from a new Firefly AI video model to fresh features and updates for Creative Cloud apps.",
+      "url": "https://www.theverge.com/2024/10/14/24269859/adobe-max-2024-major-announcements-stream",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/IQ9lZfS-AEiVpW3_a_ao75HbUBc=/0x0:3000x2000/1200x628/filters:focal(1500x1000:1501x1001)/cdn.vox-cdn.com/uploads/chorus_asset/file/23624357/acastro_STK124_03.jpg",
+      "publishedAt": "2024-10-14T14:21:29Z",
+      "content": "Adobe usually makes plenty of big product launches and updates at its annual MAX event, and this years design conference is no exception. The creative software giant has announced its first generativ… [+2963 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Gaby Del Valle",
+      "title": "Trump’s crypto website crashed after its token went on sale",
+      "description": "A co-founder of World Liberty Financial, Trump’s decentralized finance platform, claimed more than 100,000 accredited investors signed up for the whitelist, but most haven’t bought the token.",
+      "url": "https://www.theverge.com/2024/10/15/24271242/world-liberty-financial-token-sale-website-crash-trump",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/VnGw9t2CWLMuJgal2cKUuFGoEfU=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23951553/VRG_Illo_STK175_L_Normand_DonaldTrump_Negative.jpg",
+      "publishedAt": "2024-10-15T22:17:14Z",
+      "content": "Trumps crypto website crashed after its token went on sale\r\nTrumps crypto website crashed after its token went on sale\r\n / Only two percent of the 20 billion tokens available for public sale have bee… [+2659 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Jennifer Pattison Tuohy",
+      "title": "This screensaver turns your Pixel into a smart home control panel",
+      "description": "A new feature in Android 15 allows your phone or tablet to display an interactive smart home control panel while charging — and it’s not limited to Google Home.",
+      "url": "https://www.theverge.com/2024/10/15/24270909/android-15-smart-home-control-screensaver-pixel-tablet",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/zwfyGOEpzxX4i8ZXy5oC0rJaPVA=/0x0:4032x3024/1200x628/filters:focal(2016x1512:2017x1513)/cdn.vox-cdn.com/uploads/chorus_asset/file/25679173/IMG_0196.JPG",
+      "publishedAt": "2024-10-15T18:55:41Z",
+      "content": "This screensaver turns your Pixel into a smart home control panel\r\nThis screensaver turns your Pixel into a smart home control panel\r\n / A new feature in Android 15 allows your phone or tablet to dis… [+2672 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Jess Weatherbed",
+      "title": "Gmail for iOS gets an AI assistant to help manage your inbox",
+      "description": "Google is rolling out iOS support for its Gmail Q&A feature, which gives users a Gemini-powered AI assistant to help manage their inbox and Google Drive.",
+      "url": "https://www.theverge.com/2024/10/4/24261926/gmail-for-ios-gemini-ai-assistant-inbox-support",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/5KDrAFDF0p1fErypFb2lKrwinaM=/0x0:3000x2000/1200x628/filters:focal(1500x1000:1501x1001)/cdn.vox-cdn.com/uploads/chorus_asset/file/23954508/acastro_STK459_10.jpg",
+      "publishedAt": "2024-10-04T12:29:19Z",
+      "content": "Gmail for iOS gets an AI assistant to help manage your inbox\r\nGmail for iOS gets an AI assistant to help manage your inbox\r\n / Googles Gemini AI gives some iOS users a way to easily summarize emails … [+1289 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Antonio G. Di Benedetto",
+      "title": "Xbox Series X / S expansion cards are near their lowest prices for Prime Day",
+      "description": "Western Digital’s WD_Black C50 1TB Storage Expansion Card for Xbox is near its all-time low, and Seagate’s 2TB upgrade is cheaper than ever with $50 off.",
+      "url": "https://www.theverge.com/2024/10/8/24201383/amazon-prime-day-western-digital-wdblack-c50-seagate-xbox-storage-expansion-card-deal-sale",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/HpKqDGZW_E3FwQcINllgVUJToCc=/0x0:1225x817/1200x628/filters:focal(613x409:614x410)/cdn.vox-cdn.com/uploads/chorus_asset/file/24554824/storage.jpg",
+      "publishedAt": "2024-10-08T17:45:44Z",
+      "content": "Xbox Series X / S expansion cards are near their lowest prices for Prime Day\r\nXbox Series X / S expansion cards are near their lowest prices for Prime Day\r\n / You can find speedy storage at or near a… [+1840 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Gaby Del Valle",
+      "title": "The FBI secretly created a coin to investigate crypto pump-and-dump schemes",
+      "description": "NexFundAI, the FBI’s Ethereum-based token, was used to investigate price manipulation in crypto markets, resulting in more than a dozen charges brought by the SEC and DOJ.",
+      "url": "https://www.theverge.com/2024/10/10/24267098/fbi-coin-crypto-token-nexgenai-sec-doj-fraud-investigation",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/PbA87bIwD6q8J3sxWMWsMkDAslU=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/25535403/STK004_FBI_CVIRGINIA_A.jpg",
+      "publishedAt": "2024-10-10T17:58:33Z",
+      "content": "The FBI secretly created a coin to investigate crypto pump-and-dump schemes\r\nThe FBI secretly created a coin to investigate crypto pump-and-dump schemes\r\n / NexFundAI, the FBIs Ethereum-based token, … [+2235 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Quentyn Kennemer",
+      "title": "Ember’s temperature-controlled smart mugs are 20 percent off today",
+      "description": "Ember is discounting the Mug 2, Tumbler, and Travel Mug 2 Plus through October 21st. You can also save big on Xbox Wireless Controllers and SwitchBot’s Wallet Finder Card.",
+      "url": "https://www.theverge.com/2024/10/19/24272664/ember-travel-mug-2-plus-smart-tumbler-xbox-wireless-controller-deal-sale",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/cMAVQOEdkMW4qHH9Uun06QsbEyo=/0x0:3000x2001/1200x628/filters:focal(1500x1001:1501x1002)/cdn.vox-cdn.com/uploads/chorus_asset/file/25562170/ember_feb2022_benwaugh_6_EDIT_3000.jpg",
+      "publishedAt": "2024-10-19T17:22:47Z",
+      "content": "Embers temperature-controlled smart mugs are 20 percent off today\r\nEmbers temperature-controlled smart mugs are 20 percent off today\r\n / You can also save $35 on Ankers 100W 736 Charger and up to $25… [+3207 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Wes Davis",
+      "title": "Michelle Yeoh’s Star Trek spy movie has a release date",
+      "description": "Michelle Yeoh’s Star Trek: Discovery character, Emperor Philippa Georgiou takes the lead as a Federation spy when Star Trek: Section 31 premieres in January.",
+      "url": "https://www.theverge.com/2024/10/20/24274900/star-trek-section-31-michelle-yeoh-paramount-plus-streaming-premiere-date",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/ORbY_Z5pU-TbbdYQioWCBzKtKps=/436x134:1770x878/1200x628/filters:focal(885x477:886x478)/cdn.vox-cdn.com/uploads/chorus_asset/file/25690382/Screenshot_2024_10_20_at_5.15.01_PM.png",
+      "publishedAt": "2024-10-20T22:32:47Z",
+      "content": "Michelle Yeohs Star Trek spy movie has a release date\r\nMichelle Yeohs Star Trek spy movie has a release date\r\n / Paramount Plus is releasing Section 31 straight to streaming in January.\r\nByWes Davis,… [+1314 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Tom Warren",
+      "title": "You can sign up to test Microsoft Flight Simulator 2024 if your PC is up to it",
+      "description": "Microsoft is holding an alpha test for Flight Simulator 2024. It’s designed to stress test the core services of the game, ahead of its debut on November 19th.",
+      "url": "https://www.theverge.com/2024/10/9/24265946/microsoft-flight-simulator-2024-alpha-test",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/5cpmZLBfCQV5m-EHsP7KXSIzRiA=/0x0:2160x1440/1200x628/filters:focal(1080x720:1081x721)/cdn.vox-cdn.com/uploads/chorus_asset/file/25629511/flightsim1.jpg",
+      "publishedAt": "2024-10-09T11:31:03Z",
+      "content": "You can sign up to test Microsoft Flight Simulator 2024 if your PC is up to it\r\nYou can sign up to test Microsoft Flight Simulator 2024 if your PC is up to it\r\n / Microsoft is holding an alpha test f… [+2156 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Andrew J. Hawkins",
+      "title": "The bill finally comes due for Elon Musk",
+      "description": "Tesla CEO Elon Musk is finally forced to stop hiding behind his bluster and show off a real autonomous vehicle. Anything less would be a disaster.",
+      "url": "https://www.theverge.com/2024/10/9/24265781/tesla-robotaxi-elon-musk-claims-safety-driverless-level-5",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/UTFYAIWx1CsXE6oKzXfSIOu2rXQ=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/25663397/STKE001_STK086_Tesla_Robotaxi_D.jpg",
+      "publishedAt": "2024-10-09T14:38:07Z",
+      "content": "Image: Cath Virginia / The Verge, Turbosquid\r\n\n \n\n\n The Tesla CEO has long promised — and failed to deliver — a fully autonomous vehicle. With this week’s robotaxi reveal, his time is up. For almost … [+16028 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Nathan Edwards",
+      "title": "The Fitbit Ace LTE, a great kids’ smartwatch, hits its lowest price",
+      "description": "The Ace LTE, a great alternative to a phone for younger kids, is $170 (from $230) for Prime Big Deals Day.",
+      "url": "https://www.theverge.com/2024/10/9/24266358/fitbit-ace-lte-kids-smartwatch-amazon-prime-big-deals-day",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/9-HEEkI2SWlFAj1nSRefVGS3E8I=/0x0:4032x2688/1200x628/filters:focal(2016x1344:2017x1345)/cdn.vox-cdn.com/uploads/chorus_asset/file/25466810/247127_Fitbit_Ace_LTE_VSong_0009.jpg",
+      "publishedAt": "2024-10-09T20:16:35Z",
+      "content": "The Fitbit Ace LTE, a great kids smartwatch, hits its lowest price\r\nThe Fitbit Ace LTE, a great kids smartwatch, hits its lowest price\r\n / The Ace LTE is extremely cute and lets your kid call or text… [+2587 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Wes Davis",
+      "title": "Apple’s Vision Pro leader, Dan Riccio, is retiring",
+      "description": "Dan Riccio, who heads the Vision Pro and oversaw much of Apple’s popular new hardware from 2012 to 2021, is reportedly retiring this month after 26 years.",
+      "url": "https://www.theverge.com/2024/10/9/24266321/apple-dan-riccio-retiring",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/Ed7T1NHwsYw7ALRGvqF9Z9pWj74=/0x0:1960x1362/1200x628/filters:focal(980x681:981x682)/cdn.vox-cdn.com/uploads/chorus_asset/file/22259288/Apple_dan_riccio_begins_a_new_chapter_at_apple_01252020_big.jpg.large_2x.jpg",
+      "publishedAt": "2024-10-09T19:20:47Z",
+      "content": "Apples Vision Pro leader, Dan Riccio, is retiring\r\nApples Vision Pro leader, Dan Riccio, is retiring\r\n / Dan Riccio transitioned from being Apples SVP of hardware engineering in 2021 to take over a n… [+1027 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Wes Davis",
+      "title": "Ford tells some EV customers to stop using its Tesla Supercharger adapter",
+      "description": "Ford is notifying some EV customers that they should stop using their NACS charge adapters due to a “potential issue,” and that it will send free replacements soon.",
+      "url": "https://www.theverge.com/2024/10/19/24274405/ford-ev-nacs-adapter-faulty-replacement-service-bulletin",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/SgFjINFLAC6H0V4dM8qITguaCUM=/0x0:2000x1333/1200x628/filters:focal(1000x667:1001x668)/cdn.vox-cdn.com/uploads/chorus_asset/file/25688855/Fast_Charging_Adapter__NACS__03.jpg",
+      "publishedAt": "2024-10-19T20:20:41Z",
+      "content": "Ford says some of its NACS adapters could cause issues. | Image: Ford\r\n\n \n\n Ford started offering free adapters for Tesla’s Supercharger network to owners of its EVs in February, and now it’s telling… [+1110 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Wes Davis",
+      "title": "Spotify’s new playlist art maker gets that design is your passion",
+      "description": "Spotify’s new cover art maker lets you create custom collages for playlists, using images you upload or colorful backgrounds, along with custom stickers and effects.",
+      "url": "https://www.theverge.com/2024/10/22/24275651/spotify-create-cover-art-playlist-image-maker",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/wtcqPbcwZRu53WRp3USIHqZ3grY=/0x0:2000x1125/1200x628/filters:focal(1000x563:1001x564)/cdn.vox-cdn.com/uploads/chorus_asset/file/25692989/E2E_Screens.jpg",
+      "publishedAt": "2024-10-22T13:03:59Z",
+      "content": "Spotifys new playlist art maker gets that design is your passion\r\nSpotifys new playlist art maker gets that design is your passion\r\n / The new Create cover art option in Spotify makes custom collages… [+1529 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "David Pierce",
+      "title": "Apple iPad Mini 2024 review: missing pieces",
+      "description": "It gets an A17 Pro chip, Apple Pencil support, and the ability to run Apple Intelligence. But it’s hard to figure out why you’d want this iPad over any other.",
+      "url": "https://www.theverge.com/2024/10/22/24275956/apple-ipad-mini-2024-review",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/xUs9owo4ktDQ17MKWxO0VDatFAM=/0x0:4240x2832/1200x628/filters:focal(2337x1316:2338x1317)/cdn.vox-cdn.com/uploads/chorus_asset/file/25691621/iPad_Mini_1.jpg",
+      "publishedAt": "2024-10-22T13:00:00Z",
+      "content": "Apple’s smallest tablet got an upgrade — but it won’t feel like much of one unless Apple Intelligence is better than it seems. I should confess right up front that I have always loved the iPad Mini. … [+9782 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Andrew Webster",
+      "title": "I’ve given up on trying to predict what Nintendo will do — especially when it comes to the Switch 2",
+      "description": "Ahead of the announcement of the Switch 2, Nintendo has focused on all kinds of other initiatives including a museum, an alarm clock, and a mystery MMO.",
+      "url": "https://www.theverge.com/2024/10/22/24276650/nintendo-switch-2-predictions-playtest-alarmo",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/ERWV6in9Txm6WmKTi7cronGTn8o=/0x0:1920x1280/1200x628/filters:focal(960x640:961x641)/cdn.vox-cdn.com/uploads/chorus_asset/file/25693054/Exhibition_Building_2_Second_floor_exhibit_.jpg",
+      "publishedAt": "2024-10-22T15:00:00Z",
+      "content": "Ive given up on trying to predict what Nintendo will do especially when it comes to the Switch 2\r\nIve given up on trying to predict what Nintendo will do especially when it comes to the Switch 2\r\n / … [+5104 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Wes Davis",
+      "title": "Threshold’s Wi-Fi sensing plugs offer caregiver monitoring without cameras",
+      "description": "The Motion Wi-Fi Sensing Plugs use interference to detect motion, allowing remote caregivers to monitor household activity without installing an invasive camera.",
+      "url": "https://www.theverge.com/2024/10/10/24266406/threshold-wi-fi-sensing-plugs-motion-detection",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/XxOIPRRqtY7nxH8VZ6UXhNKdwnA=/0x0:2048x1435/1200x628/filters:focal(1024x718:1025x719)/cdn.vox-cdn.com/uploads/chorus_asset/file/25668281/Threshold_Care__Inc._r1_770A4901_crop.jpg",
+      "publishedAt": "2024-10-10T13:00:00Z",
+      "content": "Thresholds Wi-Fi sensing plugs offer caregiver monitoring without cameras\r\nThresholds Wi-Fi sensing plugs offer caregiver monitoring without cameras\r\n / The Motion Wi-Fi Sensing Plugs use interferenc… [+2152 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Kylie Robison",
+      "title": "Agents are the future AI companies promise — and desperately need",
+      "description": "OpenAI, Google, and Microsoft believe autonomous AI agents are the next best way to monetize LLMs.",
+      "url": "https://www.theverge.com/2024/10/10/24266333/ai-agents-assistants-openai-google-deepmind-bots",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/nck9Dm4pv6IqJTOKtsk51oa7W5Y=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/25362060/STK_414_AI_CHATBOT_R2_CVirginia_C.jpg",
+      "publishedAt": "2024-10-10T13:00:00Z",
+      "content": "Illustration by Cath Virginia / The Verge | Photos by Getty Images\r\n\n \n\n Humans have automated tasks for centuries. Now, AI companies see a path to profit in harnessing our love of efficiency, and th… [+8508 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Gaby Del Valle",
+      "title": "Marriott agrees to pay $52 million settlement after multiple data breaches",
+      "description": "The FTC is also requiring Marriott and its Starwood subsidiary to implement an information security program to settle charges over three data breaches that occurred between 2020 and 2024, affecting 334 million customers.",
+      "url": "https://www.theverge.com/2024/10/10/24267048/marriott-ftc-settlement-agreement-52-million-fine",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/xyGsX1bbhe6XLTDz3Vpmv_Hd-hI=/0x0:1000x667/1200x628/filters:focal(500x334:501x335)/cdn.vox-cdn.com/uploads/chorus_asset/file/3360954/shutterstock_219795124.0.jpg",
+      "publishedAt": "2024-10-10T17:02:27Z",
+      "content": "Marriott agrees to pay $52 million settlement after multiple data breaches\r\nMarriott agrees to pay $52 million settlement after multiple data breaches\r\n / The hotel chain and its Starwood subsidiary … [+2245 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Chris Welch",
+      "title": "Samsung Galaxy Buds 3 Pro review: light ’em up",
+      "description": "Samsung’s Galaxy Buds 3 Pro have an AirPods-like stem design, but they make up for that lack of originality with stellar sound, great voice call quality, and more.",
+      "url": "https://www.theverge.com/24265270/samsung-galaxy-buds-3-pro-review",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/KT-6Qr1B5sw2B1RTkwKHBGkg2Ys=/0x0:2040x1360/1200x628/filters:focal(865x538:866x539)/cdn.vox-cdn.com/uploads/chorus_asset/file/25664552/DSC_0886.jpg",
+      "publishedAt": "2024-10-09T14:00:00Z",
+      "content": "The companys latest flagship earbuds might lack originality, but they nail sound quality, transparency mode, and voice call performance.\r\nByChris Welch, a reviewer specializing in personal audio and … [+7981 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Antonio G. Di Benedetto",
+      "title": "Zens’ new Qi2 charger is about as close as you get to plugging your phone directly into a wall",
+      "description": "The Zens Wireless Charging Adapter is a €49.99 Qi2 pad for iPhones that plugs into a standard EU outlet and can charge a second device via USB-C cable.",
+      "url": "https://www.theverge.com/2024/10/17/24272909/zens-qi2-wireless-charging-adapter-eu-plug-outlet-magsafe-charger",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/aveBNeGsOcuBK_gd3IRvvFVpFEE=/0x0:3000x1678/1200x628/filters:focal(1500x839:1501x840)/cdn.vox-cdn.com/uploads/chorus_asset/file/25685353/8_ZESC18B_Lifestyle_with_devices.jpg",
+      "publishedAt": "2024-10-17T21:24:15Z",
+      "content": "Zens new Qi2 charger is about as close as you get to plugging your phone directly into a wall\r\nZens new Qi2 charger is about as close as you get to plugging your phone directly into a wall\r\n / The 49… [+1737 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Jay Peters",
+      "title": "YouTube is testing its cheaper Premium Lite subscription again, but it now has limited ads",
+      "description": "YouTube has been testing a new version of its Premium Lite subscription in Australia, Germany, and Thailand, and based on screenshots, it has limited ads.",
+      "url": "https://www.theverge.com/2024/10/17/24272930/youtube-cheaper-premium-lite-subscription-limited-ads",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/kSc1MrTy-5jpSGwFwD8Mi2k0Pok=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23986639/acastro_STK092_03.jpg",
+      "publishedAt": "2024-10-17T20:26:23Z",
+      "content": "YouTube is testing its cheaper Premium Lite subscription again, but it now has limited ads\r\nYouTube is testing its cheaper Premium Lite subscription again, but it now has limited ads\r\n / Users in Aus… [+1891 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Jay Peters",
+      "title": "Apple is preparing an M4 MacBook Air update for early next year",
+      "description": "Apple plans to release MacBook Airs with M4 chips in early 2025. The company is also working on an M4 Mac Studio for sometime in 2025, too.",
+      "url": "https://www.theverge.com/2024/10/23/24277876/apple-m4-macbook-air-update",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/FgQBJPicKhQ51umT273aTD89LoE=/0x0:2700x1800/1200x628/filters:focal(1350x900:1351x901)/cdn.vox-cdn.com/uploads/chorus_asset/file/25333661/247043_Apple_MacBook_Air_2024_AKrales_0200.jpg",
+      "publishedAt": "2024-10-23T19:17:56Z",
+      "content": "Apple is preparing an M4 MacBook Air update for early next year\r\nApple is preparing an M4 MacBook Air update for early next year\r\n / Apple is rumored to update many of its computers next week, but th… [+1535 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Wes Davis",
+      "title": "Dodge Chargers with semi-solid-state batteries may hit the road in 2026",
+      "description": "Stellantis plans to demonstrate a fleet of Dodge Charger Daytonas equipped with semi-solid-state batteries in 2026, using tech that Mercedes will also deploy in the future.",
+      "url": "https://www.theverge.com/2024/10/23/24277832/dodge-charger-ev-semi-solid-state-mercedes-stellantis-demo-2026",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/lPNHAbNnSghQhGQ6HqtXU1cEi-Q=/0x0:3000x2400/1200x628/filters:focal(1500x1200:1501x1201)/cdn.vox-cdn.com/uploads/chorus_asset/file/25315929/DG024_030CH.jpg",
+      "publishedAt": "2024-10-23T20:35:26Z",
+      "content": "Dodge Chargers with semi-solid-state batteries may hit the road in 2026\r\nDodge Chargers with semi-solid-state batteries may hit the road in 2026\r\n / Stellantis says it will demo solid-state battery t… [+2584 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Jess Weatherbed",
+      "title": "Adobe made its painting app completely free to take on Procreate",
+      "description": "Adobe is attempting to lure illustrators to join its creative software platform by making the full version of its Fresco drawing app entirely free for everyone.",
+      "url": "https://www.theverge.com/2024/10/23/24277533/adobe-fresco-painting-app-free-availablility-procreate",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/yNLzv2wh45MVc80zvLwpK4Pc1l0=/0x0:2388x1668/1200x628/filters:focal(1194x834:1195x835)/cdn.vox-cdn.com/uploads/chorus_asset/file/25694610/IMG_1015.png",
+      "publishedAt": "2024-10-23T12:45:00Z",
+      "content": "Adobe made its painting app completely free to take on Procreate\r\nAdobe made its painting app completely free to take on Procreate\r\n / Fresco users no longer require a subscription to unlock the full… [+2731 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Andrew Liszewski",
+      "title": "Marantz’s first speakers look like works of art",
+      "description": "The Marantz Horizon and Grand Horizon speakers feature both wired and wireless connectivity including access to streaming services, and will be available early next year starting at $3,500.",
+      "url": "https://www.theverge.com/2024/10/23/24277535/marantz-wireless-speaker-grand-horizon-streaming",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/a1waQWAarS8Tb6bAWY-nWICrdWw=/0x0:1418x945/1200x628/filters:focal(739x224:740x225)/cdn.vox-cdn.com/uploads/chorus_asset/file/25694635/marantz1.jpg",
+      "publishedAt": "2024-10-23T13:49:14Z",
+      "content": "Marantzs first speakers look like works of art\r\nMarantzs first speakers look like works of art\r\n / The Marantz Horizon and Grand Horizon speakers will be available early next year starting at $3,500.… [+2652 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Jay Peters",
+      "title": "A new iMessage safety feature prompts kids to report explicit images to Apple",
+      "description": "Apple is adding a new child safety feature to iMessage that lets kids send a report to Apple when they are sent photos or videos with nudity, according to The Guardian. After getting a report, the company can choose report messages to law enforcement.",
+      "url": "https://www.theverge.com/2024/10/24/24278526/apple-imessage-safety-feature-prompts-kids-report-explicit-images",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/qKdCWJQesHoFeSnIlYc1aKGH5LA=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24402139/STK071_apple_K_Radtke_03.jpg",
+      "publishedAt": "2024-10-24T16:39:12Z",
+      "content": "A new iMessage safety feature prompts kids to report explicit images to Apple\r\nA new iMessage safety feature prompts kids to report explicit images to Apple\r\n / When children receive images or videos… [+2414 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Jay Peters",
+      "title": "The Last of Us’ new season two trailer puts Joel and Ellie through the wringer",
+      "description": "The show is set to debut in 2025.",
+      "url": "https://www.theverge.com/2024/9/26/24255066/the-last-of-us-tlou-season-two-teaser-trailer",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/9hUVgba-PaGURDQOwyU1IT2fIBg=/0x0:1920x1080/1200x628/filters:focal(803x495:804x496)/cdn.vox-cdn.com/uploads/chorus_asset/file/25643798/pedro_pascal_2.jpg",
+      "publishedAt": "2024-09-26T15:29:16Z",
+      "content": "The Last of Us new season 2 trailer puts Joel and Ellie through the wringer\r\nThe Last of Us new season 2 trailer puts Joel and Ellie through the wringer\r\n / The show is set to debut in 2025.\r\nByJay P… [+1242 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Lauren Feiner",
+      "title": "JD Vance avoids January 6th questions by pivoting to Facebook ‘censorship’",
+      "description": "What Sen. JD Vance and Gov. Tim Walz said about censorship, January 6th, and Big Tech at the vice presidential debate.",
+      "url": "https://www.theverge.com/2024/10/2/24259972/vance-walz-big-tech-first-amendment-debate",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/ZCCaHiZnhJClEGOMJC2QeNZ4-fk=/0x0:2040x1334/1200x628/filters:focal(1020x667:1021x668)/cdn.vox-cdn.com/uploads/chorus_asset/file/25651225/STK206_STK204_JD_VANCE_TIM_WALZ_D.jpg",
+      "publishedAt": "2024-10-02T04:00:36Z",
+      "content": "JD Vance avoids January 6th questions by pivoting to Facebook censorship\r\nJD Vance avoids January 6th questions by pivoting to Facebook censorship\r\n / When Tim Walz asked point-blank who won the 2020… [+3704 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Gaby Del Valle",
+      "title": "The Springfield pet-eating hoax was not the only immigration lie Vance spouted tonight",
+      "description": "During the vice presidential debate, JD Vance followed his weirdest, most viral falsehood with a litany of banal lies about immigration, asylum, deportation, and more.",
+      "url": "https://www.theverge.com/2024/10/1/24259985/jd-vance-immigration-lies-vice-presidential-debate",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/vJombjrF47qQ0LbnLurQoTPlxQc=/0x0:2040x1334/1200x628/filters:focal(1020x667:1021x668)/cdn.vox-cdn.com/uploads/chorus_asset/file/25651220/STK206_STK204_JD_VANCE_TIM_WALZ_A.jpg",
+      "publishedAt": "2024-10-02T03:57:06Z",
+      "content": "The Springfield pet-eating hoax was not the only immigration lie Vance spouted tonight\r\nThe Springfield pet-eating hoax was not the only immigration lie Vance spouted tonight\r\n / Vance blamed migrant… [+7066 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Jennifer Pattison Tuohy",
+      "title": "Sleep Number’s newest smart bed aims to tackle night sweats",
+      "description": "The company says its newest smart bed can actively cool and adapt to both sleepers’ temperature needs throughout the night.",
+      "url": "https://www.theverge.com/2024/10/1/24259440/sleep-number-climate-cool-smart-bed-price-features",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/b7tR_OnblE8cXExsFC4Ga4ntCqE=/711x757:3306x2710/1200x628/filters:focal(2046x1248:2047x1249)/cdn.vox-cdn.com/uploads/chorus_asset/file/25652952/cc_FT_FXT_FX2_2407_01a.jpg",
+      "publishedAt": "2024-10-01T18:59:20Z",
+      "content": "Sleep Numbers newest smart bed aims to tackle night sweats\r\nSleep Numbers newest smart bed aims to tackle night sweats\r\n / The ClimateCool can actively cool you and adjust to your temperature through… [+3346 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Tom Warren",
+      "title": "Microsoft gives Copilot a voice and vision in its biggest redesign yet",
+      "description": "Microsoft is overhauling its Copilot AI assistant with a new design and features. Copilot is getting voice and vision features that offer more personalized feeds.",
+      "url": "https://www.theverge.com/2024/10/1/24259187/microsoft-copilot-redesign-vision-voice-features-inflection-ai",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/-H77z6SYbFrw3XoZ-53QGY0Wqjw=/0x0:2640x1760/1200x628/filters:focal(1320x880:1321x881)/cdn.vox-cdn.com/uploads/chorus_asset/file/25652460/copilothed.jpg",
+      "publishedAt": "2024-10-01T14:00:00Z",
+      "content": "Image: Microsoft\r\n\n \n\n\n Copilot is transforming into a more personalized AI assistant thanks to Inflection. Microsoft is unveiling a big overhaul of its Copilot experience today, adding voice and vis… [+8485 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Jay Peters",
+      "title": "Fortnite creators can now make first-person shooters",
+      "description": "Developers that build Fortnite experiences can now try out a new first-person camera mode, Epic Games announced.",
+      "url": "https://www.theverge.com/2024/10/1/24258447/fortnite-creators-first-person-shooters-fps-unreal-editor",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/lQTW5pu2yldcm6BoTu2n7QldCyU=/0x0:1200x630/1200x628/filters:focal(600x315:601x316)/cdn.vox-cdn.com/uploads/chorus_asset/file/25651689/Unreal_Fest_Seattle___UEFN___First_Person_Camera_Mode_device__Experimental____2.jpg",
+      "publishedAt": "2024-10-01T14:00:00Z",
+      "content": "Fortnite creators can now make first-person shooters\r\nFortnite creators can now make first-person shooters\r\n / Theyll be able to publish FPS experiences later in 2024 with Unreal Editor for Fortnite.… [+1268 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Tom Warren",
+      "title": "Qualcomm cancels its miniature Windows on Arm PC",
+      "description": "Qualcomm has canceled its Snapdragon Dev Kit hardware. The mini PC was supposed to usher in a wave of Windows on Arm apps.",
+      "url": "https://www.theverge.com/2024/10/18/24273366/qualcomm-cancels-snapdragon-dev-kit-mini-windows-on-arm-pc",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/1GIbHRx475ov6UWTo0spBoN5mT4=/0x0:1620x1080/1200x628/filters:focal(810x540:811x541)/cdn.vox-cdn.com/uploads/chorus_asset/file/25458276/Snapdragon_Dev_Kit_for_Windows___Front.jpg",
+      "publishedAt": "2024-10-18T09:04:57Z",
+      "content": "Qualcomm cancels its miniature Windows on Arm PC\r\nQualcomm cancels its miniature Windows on Arm PC\r\n / A simple HDMI port may have taken down a key Snapdragon dev kit.\r\nByTom Warren, a senior editor … [+2559 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Andrew Liszewski",
+      "title": "Ploopy’s 3D-printed, open-source trackpad is thoroughly customizable",
+      "description": "Ploopy’s new trackpad powered by a Raspberry Pi can add a new level of DIY to your laptop or desktop with a 3D-printed case you can customize.",
+      "url": "https://www.theverge.com/2024/10/18/24273416/ploopy-trackpad-diy-open-source",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/dhp8vWU-i7RXpemMuMrkflAoK7E=/0x0:1624x1082/1200x628/filters:focal(812x541:813x542)/cdn.vox-cdn.com/uploads/chorus_asset/file/25686563/ploopy1.jpg",
+      "publishedAt": "2024-10-18T14:46:45Z",
+      "content": "Ploopys 3D-printed, open-source trackpad is thoroughly customizable\r\nPloopys 3D-printed, open-source trackpad is thoroughly customizable\r\n / This 3D-printed trackpad powered by a Raspberry Pi can add… [+1947 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Sheena Vasani",
+      "title": "The OnePlus Pad is cheaper than ever and comes with a free magnetic keyboard",
+      "description": "OnePlus is selling the OnePlus Pad for $359.99 with a free magnetic keyboard. Amazon’s Smart Thermostat and the USB-C Apple Pencil are also on sale.",
+      "url": "https://www.theverge.com/2024/10/16/24270849/oneplus-pad-amazon-smart-thermostat-deal-sale",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/q6NYMVwsOkSC_9UJcuxsqIsnFhs=/0x0:3000x2000/1200x628/filters:focal(1500x1000:1501x1001)/cdn.vox-cdn.com/uploads/chorus_asset/file/24616039/oneplus_pad_6.jpg",
+      "publishedAt": "2024-10-16T15:38:21Z",
+      "content": "The OnePlus Pad is cheaper than ever and comes with a free magnetic keyboard\r\nThe OnePlus Pad is cheaper than ever and comes with a free magnetic keyboard\r\n / We also found deals on the Amazon Smart … [+3298 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Andrew Liszewski",
+      "title": "Sony’s best ANC headphones and earbuds are getting Google’s Find My Device",
+      "description": "Sony has released new firmware updates for its WF-1000XM5 earbuds and WH-1000XM5 headphones adding support for Google’s Find My Device network and compatibility with Sony’s latest wireless speaker.",
+      "url": "https://www.theverge.com/2024/10/3/24261443/sony-wireless-headphones-google-find-my-device-update",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/M1FMHMj3Fbnd9FQanBEHn7l9tuc=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24805768/DSCF2242.jpg",
+      "publishedAt": "2024-10-03T20:49:55Z",
+      "content": "Sonys best ANC headphones and earbuds are getting Googles Find My Device\r\nSonys best ANC headphones and earbuds are getting Googles Find My Device\r\n / A new software update for Sonys WF-1000XM5 earbu… [+1853 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Emma Roth",
+      "title": "Automattic demanded a cut of WP Engine’s revenue before starting WordPress battle",
+      "description": "WordPress.com parent company Automattic asked WP Engine for 8 percent of its revenue each month before blocking the company from WordPress.org servers.",
+      "url": "https://www.theverge.com/2024/10/2/24260158/automattic-demand-wp-engine-revenue-wordpress-battle",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/UjHHQaiK41VP40fXvnPEsf19SKw=/0x0:3601x2401/1200x628/filters:focal(1801x1201:1802x1202)/cdn.vox-cdn.com/uploads/chorus_asset/file/25654072/wordpress_studio_image.jpg",
+      "publishedAt": "2024-10-02T14:30:26Z",
+      "content": "Automattic demanded a cut of WP Engines revenue before starting WordPress battle\r\nAutomattic demanded a cut of WP Engines revenue before starting WordPress battle\r\n / Automattic the company that runs… [+2985 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Jess Weatherbed",
+      "title": "ChatGPT’s ‘canvas’ interface makes it easier to write and code",
+      "description": "OpenAI has launched a new “canvas” interface for ChatGPT that allows users to adjust sections of text or code generated by the chatbot without a full rewrite.",
+      "url": "https://www.theverge.com/2024/10/4/24261895/openai-chatgpt-canvas-text-code-editing-interface",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/zBrD27fMKiBCF7--szducis0Pco=/0x0:1920x1080/1200x628/filters:focal(960x540:961x541)/cdn.vox-cdn.com/uploads/chorus_asset/file/25657766/ChatGPT_canvas_editing_interface.jpg",
+      "publishedAt": "2024-10-04T11:05:03Z",
+      "content": "Canvas should make it easier for ChatGPT users to make alterations to code and text without rewriting entirely with additional prompts. | Image: OpenAI\r\n\n \n\n OpenAI has launched a new “canvas” interf… [+2254 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Jess Weatherbed",
+      "title": "Silicon Valley gets its first drone delivery service",
+      "description": "Matternet has launched a drone delivery pilot in Mountain View and Sunnyvale, California, to courier food and other items to residents’ doorsteps.",
+      "url": "https://www.theverge.com/2024/10/3/24261066/matternet-m2-drone-delivery-service-silicon-valley-launch",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/t0Fnu2MNVfAXh_HaYpZc85UrFuI=/0x0:1280x801/1200x628/filters:focal(640x401:641x402)/cdn.vox-cdn.com/uploads/chorus_asset/file/25656156/Matternet_M2.jpg",
+      "publishedAt": "2024-10-03T12:55:33Z",
+      "content": "Silicon Valley gets its first drone delivery service\r\nSilicon Valley gets its first drone delivery service\r\n / Matternets drone delivery pilot is now available to airlift chocolate and sports drinks … [+1689 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "David Pierce",
+      "title": "What’s on your desk, David Pierce?",
+      "description": "The Verge’s editor-at-large, podcaster, and enthusiastic app tester talks about his basement workspace.",
+      "url": "https://www.theverge.com/24259381/work-home-desk-logitech-sony",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/mi5wfWOPrbU3YQQ6zA2yBr6PbTw=/0x0:2700x1800/1200x628/filters:focal(1350x900:1351x901)/cdn.vox-cdn.com/uploads/chorus_asset/file/25654828/247306_WoyD_David_Pierce_DPierce_0002.jpg",
+      "publishedAt": "2024-10-03T14:00:00Z",
+      "content": "A revolving set of tech, together with some great family art. David Pierce is The Verge’s editor-at-large. What is an editor-at-large? It means, he says, “well, nothing. I write stories and make podc… [+7959 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Antonio G. Di Benedetto",
+      "title": "Zelda’s new solo adventure on Nintendo Switch is already on a small sale",
+      "description": "The Legend of Zelda: Echoes of Wisdom just came out but it’s already $8 off for a physical cartridge version for the Nintendo Switch.",
+      "url": "https://www.theverge.com/2024/10/2/24260573/zelda-echoes-of-wisdom-nintendo-switch-physical-game-deal-sale",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/xpSvRaCiZg0cLlosOzERPxHpCnA=/0x0:2880x1601/1200x628/filters:focal(1440x801:1441x802)/cdn.vox-cdn.com/uploads/chorus_asset/file/25602441/Screen_Shot_2024_08_30_at_5.28.36_PM.png",
+      "publishedAt": "2024-10-02T19:50:23Z",
+      "content": "Zeldas new solo adventure on Nintendo Switch is already on a small sale\r\nZeldas new solo adventure on Nintendo Switch is already on a small sale\r\n / You can get a physical version of The Legend of Ze… [+1391 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Andrew Liszewski",
+      "title": "Target’s new sneakers expand to fit growing feet",
+      "description": "Target has partnered with a prominent shoe designer for its new ÜNOS by Sz sneakers that expand an extra half size for kids and an additional full size for adults.",
+      "url": "https://www.theverge.com/2024/10/2/24260153/target-unos-by-sz-shoes-sneakers",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/KJ3jmnOwvXPRPlyQp1tEV9R6V8I=/0x0:1000x668/1200x628/filters:focal(500x334:501x335)/cdn.vox-cdn.com/uploads/chorus_asset/file/25654067/targetshoes1.jpg",
+      "publishedAt": "2024-10-02T14:09:32Z",
+      "content": "Targets new sneakers expand to fit growing feet\r\nTargets new sneakers expand to fit growing feet\r\n / A split sole allows the ÜNOS by Sz to expand an extra half size for kids and an additional full si… [+2259 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "David Nield",
+      "title": "How to lock any app with Face ID on an iPhone using iOS 18",
+      "description": "The new Face ID lock in iOS 18 lets you get your iPhone to ask for biometric authentication whenever a particular app is launched.",
+      "url": "https://www.theverge.com/24267102/iphone-ios-18-lock-app-how-to",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/A55zAsvOduPsZkHtdSp6PdPaixY=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23986267/HT015_S_Haddad_ios_iphone_apps.jpg",
+      "publishedAt": "2024-10-11T14:26:42Z",
+      "content": "Illustration by Samar Haddad / The Verge\r\n\n \n\n Having to hand your iPhone over to someone can be a fairly common occurrence. Maybe your little nephew wants to play a game or your friend wants to chec… [+3930 chars]"
+    }
+  ]
+}
