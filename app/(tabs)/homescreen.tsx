@@ -1,28 +1,46 @@
 import React, { useEffect, useState } from 'react';
 import { SafeAreaView } from 'react-native-safe-area-context';
-import { View, Text, TextInput, StyleSheet, TouchableOpacity, FlatList } from 'react-native';
+import { View, Text, TextInput, StyleSheet, TouchableOpacity, FlatList, ActivityIndicator } from 'react-native';
 import Ionicons from '@expo/vector-icons/Ionicons';
 import NewsCard from '@/components/NewsCard';
 import { fetchNews } from '@/scripts/api'; // Import the fetchNews function
 
 const HomeScreen = () => {
   const [newsData, setNewsData] = useState([]);
+  const [loading, setLoading] = useState(true);
+  const [error, setError] = useState(null);
 
   useEffect(() => {
-    if (newsData.length === 0) {
-      const getNews = async () => {
-        try {
-          const response = await fetchNews();
-          console.log(response.articles); // Log response to ensure data is correct
-          setNewsData(response.articles);
-        } catch (error) {
-          console.error('Error fetching news', error);
-        }
-      };
+    const getNews = async () => {
+      try {
+        const response = await fetchNews();
+        setNewsData(response.articles);
+      } catch (error) {
+        setError('Error fetching news');
+        console.error(error);
+      } finally {
+        setLoading(false);
+      }
+    };
 
-      getNews();
-    }
-  }, [newsData]);
+    getNews();
+  }, []);
+
+  if (loading) {
+    return (
+      <SafeAreaView style={styles.container}>
+        <ActivityIndicator size="large" color="#0000ff" />
+      </SafeAreaView>
+    );
+  }
+
+  if (error) {
+    return (
+      <SafeAreaView style={styles.container}>
+        <Text style={styles.errorText}>{error}</Text>
+      </SafeAreaView>
+    );
+  }
 
   return (
     <SafeAreaView style={styles.container}>
@@ -45,11 +63,9 @@ const HomeScreen = () => {
       <Text style={styles.sectionTitle}>Hot</Text>
       <View style={styles.newsOptions}>
         <Ionicons style={styles.newsIcon} name="add" size={32} />
-        <Ionicons name="notifications-outline" size={32} />
-        <Ionicons name="notifications-outline" size={32} />
-        <Ionicons name="notifications-outline" size={32} />
-        <Ionicons name="notifications-outline" size={32} />
-        <Ionicons name="notifications-outline" size={32} />
+        {[...Array(5)].map((_, index) => (
+          <Ionicons key={index} name="notifications-outline" size={32} />
+        ))}
       </View>
 
       {/* News Card Labels */}
@@ -63,13 +79,13 @@ const HomeScreen = () => {
       {/* FlatList for NewsCards */}
       <FlatList
         data={newsData}
-        renderItem={({ item }) => (
+        renderItem={({ item: { title, author, urlToImage, url, source } }) => (
           <NewsCard
-            title={item.title}
-            author={item.author}
-            imageUrl={item.urlToImage}
-            url={item.url}
-            source={item.source.name}
+            title={title}
+            author={author}
+            imageUrl={urlToImage}
+            url={url}
+            source={source.name}
           />
         )}
         keyExtractor={(item) => item.url}
@@ -99,62 +115,63 @@ const styles = StyleSheet.create({
     alignItems: 'center',
   },
   icon: {
-    marginRight: 15,
+    marginRight: 10,
   },
   textWrapper: {
-    flexDirection: 'column',
+    flex: 1,
   },
   welcomeText: {
-    fontSize: 24,
-    fontWeight: '500',
+    fontSize: 16,
+    fontWeight: 'bold',
   },
   userName: {
-    fontSize: 28,
-    fontWeight: 'bold',
-    color: '#000',
+    fontSize: 16,
+    color: '#666',
   },
   searchBar: {
-    height: 45,
-    borderColor: '#d2ddd3',
-    borderWidth: 1.5,
+    height: 40,
+    borderColor: '#ccc',
+    borderWidth: 1,
     borderRadius: 10,
-    padding: 10,
-    marginTop: 10,
+    paddingHorizontal: 10,
+    paddingVertical: 5,
+    marginVertical: 10,
   },
   sectionTitle: {
-    marginTop: 20,
-    fontSize: 18,
+    fontSize: 24,
     fontWeight: 'bold',
+    marginVertical: 10,
   },
   newsOptions: {
     flexDirection: 'row',
-    justifyContent: 'space-evenly',
+    justifyContent: 'space-between',
     alignItems: 'center',
     padding: 10,
-    marginTop: 10,
   },
   newsIcon: {
-    backgroundColor: '#333',
-    borderRadius: 50,
+    marginRight: 10,
   },
   newsCardLabel: {
     flexDirection: 'row',
     justifyContent: 'space-between',
     alignItems: 'center',
-    marginTop: 20,
+    padding: 10,
   },
   newsLabel: {
     fontSize: 18,
     fontWeight: 'bold',
   },
   seeAllTextLabel: {
-    fontSize: 18,
-    color: '#be3425',
-    fontStyle: 'normal',
-    fontWeight: '600',
+    fontSize: 16,
+    color: '#666',
   },
   flatListContainer: {
-    paddingHorizontal: 10,
+    padding: 10,
+  },
+  errorText: {
+    fontSize: 18,
+    color: 'red',
+    textAlign: 'center',
   },
 });
 
