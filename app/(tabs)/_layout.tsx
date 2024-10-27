@@ -1,4 +1,4 @@
-import { Tabs } from 'expo-router';
+import { Tabs } from "expo-router";
 import Ionicons from "@expo/vector-icons/Ionicons";
 
 export default function TabLayout() {
@@ -6,7 +6,6 @@ export default function TabLayout() {
     <Tabs screenOptions={{ headerShown: false }}>
       <Tabs.Screen
         name="homescreen"
-        
         options={{
           tabBarShowLabel: false,
           tabBarBadge: 3,

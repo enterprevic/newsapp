@@ -3,11 +3,9 @@ const newsapi = new NewsAPI("a582f2f4ac894c139b5dbad3cc02ed50");
 
 const fetchNews = async () => {
   try {
-    const response = await newsapi.v2.everything({
-      sources: "bbc-news,the-verge",
-      domains: "bbc.co.uk, techcrunch.com",
+    const response = await newsapi.v2.topHeadlines({
       language: "en",
-      sortBy: "relevancy",
+      country: "us",
     });
     return response;
   } catch (error) {
