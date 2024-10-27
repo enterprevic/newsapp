@@ -1,27 +1,34 @@
-import React from 'react';
-import { View, Text, StyleSheet, Image, TouchableOpacity } from 'react-native';
+import React from "react";
+import { View, Text, StyleSheet, Image, TouchableOpacity } from "react-native";
 
-const NewsCard = ({ title, author, imageUrl, url,source, navigation }) => {
+const NewsCard = ({ title, author, imageUrl, url, source, navigation }) => {
   const handlePress = () => {
-    navigation.navigate('NewsDetail', { url });
+    navigation.navigate("NewsDetail", { url });
   };
 
   return (
     <TouchableOpacity onPress={handlePress} style={styles.container}>
-      <Image source={{ uri: imageUrl }} style={styles.image} resizeMode="cover" />
-      <Text style={styles.title}>{title}</Text>
-      <Text style={styles.author}>{author}</Text>
-      <Text style={styles.author}>{source}</Text>
+      <Image
+        source={{ uri: imageUrl }}
+        style={styles.image}
+        resizeMode="cover"
+        onError={(e) => console.log("Error loading image: ", e)}
+      />
+      <View style={styles.textContainer}>
+        <Text style={styles.title}>{title}</Text>
+        <Text style={styles.author}>{author}</Text>
+        <Text style={styles.source}>{source}</Text>
+      </View>
     </TouchableOpacity>
   );
 };
 
 const styles = StyleSheet.create({
   container: {
-    justifyContent: 'center',
-    alignItems: 'center',
-    width: 180, // Fixed width for the card
-    height: 220, // Fixed height for the card
+    justifyContent: "center",
+    alignItems: "center",
+    width: "90%",
+    height: 420,
     margin: 5,
     padding: 5,
     borderRadius: 5,
@@ -29,25 +36,34 @@ const styles = StyleSheet.create({
     shadowOffset: { width: 0, height: 2 },
     shadowOpacity: 0.5,
     shadowRadius: 4,
-    backgroundColor: '#fff',
+    backgroundColor: "#fff",
   },
   image: {
-    width: '100%', // Full width of the card
-    height: 120, // Set a height that suits your design
+    width: "100%",
+    height: "70%",
     borderRadius: 5,
   },
+  textContainer: {
+    padding: 10,
+  },
   title: {
-    fontSize: 16, // Adjust font size as needed
-    fontWeight: 'bold',
-    color: '#333',
+    fontSize: 16,
+    fontWeight: "bold",
+    color: "#333",
     marginTop: 5,
-    textAlign: 'center',
+    textAlign: "center",
   },
   author: {
-    fontSize: 12, // Adjust font size as needed
-    color: '#666',
+    fontSize: 12,
+    color: "#666",
     marginTop: 2,
-    textAlign: 'center',
+    textAlign: "center",
+  },
+  source: {
+    fontSize: 10,
+    color: "#999",
+    marginTop: 2,
+    textAlign: "center",
   },
 });
 

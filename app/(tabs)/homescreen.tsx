@@ -1,9 +1,17 @@
-import React, { useEffect, useState } from 'react';
-import { SafeAreaView } from 'react-native-safe-area-context';
-import { View, Text, TextInput, StyleSheet, TouchableOpacity, FlatList, ActivityIndicator } from 'react-native';
-import Ionicons from '@expo/vector-icons/Ionicons';
-import NewsCard from '@/components/NewsCard';
-import { fetchNews } from '@/scripts/api'; // Import the fetchNews function
+import React, { useEffect, useState } from "react";
+import { SafeAreaView } from "react-native-safe-area-context";
+import {
+  View,
+  Text,
+  TextInput,
+  StyleSheet,
+  TouchableOpacity,
+  FlatList,
+  ActivityIndicator,
+} from "react-native";
+import Ionicons from "@expo/vector-icons/Ionicons";
+import NewsCard from "@/components/NewsCard";
+import { fetchNews } from "@/scripts/api"; // Import the fetchNews function
 
 const HomeScreen = () => {
   const [newsData, setNewsData] = useState([]);
@@ -16,7 +24,7 @@ const HomeScreen = () => {
         const response = await fetchNews();
         setNewsData(response.articles);
       } catch (error) {
-        setError('Error fetching news');
+        setError("Error fetching news");
         console.error(error);
       } finally {
         setLoading(false);
@@ -57,7 +65,10 @@ const HomeScreen = () => {
       </View>
 
       {/* Search Bar */}
-      <TextInput placeholder="What interests you today?" style={styles.searchBar} />
+      <TextInput
+        placeholder="What interests you today?"
+        style={styles.searchBar}
+      />
 
       {/* News Section */}
       <Text style={styles.sectionTitle}>Hot</Text>
@@ -89,7 +100,7 @@ const HomeScreen = () => {
           />
         )}
         keyExtractor={(item) => item.url}
-        horizontal={true}
+        //horizontal={true}
         showsHorizontalScrollIndicator={false}
         contentContainerStyle={styles.flatListContainer}
       />
@@ -100,19 +111,19 @@ const HomeScreen = () => {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: '#f0f0f0',
+    backgroundColor: "#f0f0f0",
     padding: 10,
   },
   header: {
-    flexDirection: 'row',
-    justifyContent: 'space-between',
-    alignItems: 'center',
+    flexDirection: "row",
+    justifyContent: "space-between",
+    alignItems: "center",
     padding: 10,
-    backgroundColor: '#f0f0f0',
+    backgroundColor: "#f0f0f0",
   },
   leftSection: {
-    flexDirection: 'row',
-    alignItems: 'center',
+    flexDirection: "row",
+    alignItems: "center",
   },
   icon: {
     marginRight: 10,
@@ -122,15 +133,15 @@ const styles = StyleSheet.create({
   },
   welcomeText: {
     fontSize: 16,
-    fontWeight: 'bold',
+    fontWeight: "bold",
   },
   userName: {
     fontSize: 16,
-    color: '#666',
+    color: "#666",
   },
   searchBar: {
     height: 40,
-    borderColor: '#ccc',
+    borderColor: "#ccc",
     borderWidth: 1,
     borderRadius: 10,
     paddingHorizontal: 10,
@@ -139,39 +150,39 @@ const styles = StyleSheet.create({
   },
   sectionTitle: {
     fontSize: 24,
-    fontWeight: 'bold',
+    fontWeight: "bold",
     marginVertical: 10,
   },
   newsOptions: {
-    flexDirection: 'row',
-    justifyContent: 'space-between',
-    alignItems: 'center',
+    flexDirection: "row",
+    justifyContent: "space-between",
+    alignItems: "center",
     padding: 10,
   },
   newsIcon: {
     marginRight: 10,
   },
   newsCardLabel: {
-    flexDirection: 'row',
-    justifyContent: 'space-between',
-    alignItems: 'center',
+    flexDirection: "row",
+    justifyContent: "space-between",
+    alignItems: "center",
     padding: 10,
   },
   newsLabel: {
     fontSize: 18,
-    fontWeight: 'bold',
+    fontWeight: "bold",
   },
   seeAllTextLabel: {
     fontSize: 16,
-    color: '#666',
+    color: "#666",
   },
   flatListContainer: {
-    padding: 10,
+    padding: 5,
   },
   errorText: {
     fontSize: 18,
-    color: 'red',
-    textAlign: 'center',
+    color: "red",
+    textAlign: "center",
   },
 });
 
