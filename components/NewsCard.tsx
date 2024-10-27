@@ -27,9 +27,10 @@ const styles = StyleSheet.create({
   container: {
     justifyContent: "center",
     alignItems: "center",
-    width: "90%",
-    height: 420,
-    margin: 5,
+    width: "95%", // Use percentage for responsiveness
+    maxWidth: 400, // Set a maximum width for larger screens
+    height: "auto", // Allow height to adjust based on content
+    margin: 10, // Margin for spacing
     padding: 5,
     borderRadius: 5,
     elevation: 5,
@@ -39,8 +40,8 @@ const styles = StyleSheet.create({
     backgroundColor: "#fff",
   },
   image: {
-    width: "100%",
-    height: "70%",
+    width: "100%", // Make image take full width of the card
+    height: 200, // Set a fixed height for the image
     borderRadius: 5,
   },
   textContainer: {

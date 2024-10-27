@@ -37,7 +37,7 @@ const HomeScreen = () => {
   if (loading) {
     return (
       <SafeAreaView style={styles.container}>
-        <ActivityIndicator size="large" color="#0000ff" />
+        <ActivityIndicator size="large" color="#007BFF" />
       </SafeAreaView>
     );
   }
@@ -61,21 +61,32 @@ const HomeScreen = () => {
             <Text style={styles.userName}>Victor 👋</Text>
           </View>
         </View>
-        <Ionicons name="notifications-outline" size={24} />
+        <Ionicons name="notifications-outline" size={24} color="#333" />
       </View>
 
       {/* Search Bar */}
       <TextInput
         placeholder="What interests you today?"
+        placeholderTextColor="#666"
         style={styles.searchBar}
       />
 
       {/* News Section */}
       <Text style={styles.sectionTitle}>Hot</Text>
       <View style={styles.newsOptions}>
-        <Ionicons style={styles.newsIcon} name="add" size={32} />
+        <Ionicons
+          style={styles.newsIcon}
+          name="add"
+          size={32}
+          color="#007BFF"
+        />
         {[...Array(5)].map((_, index) => (
-          <Ionicons key={index} name="notifications-outline" size={32} />
+          <Ionicons
+            key={index}
+            name="notifications-outline"
+            size={32}
+            color="#333"
+          />
         ))}
       </View>
 
@@ -100,7 +111,6 @@ const HomeScreen = () => {
           />
         )}
         keyExtractor={(item) => item.url}
-        //horizontal={true}
         showsHorizontalScrollIndicator={false}
         contentContainerStyle={styles.flatListContainer}
       />
@@ -111,7 +121,7 @@ const HomeScreen = () => {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: "#f0f0f0",
+    backgroundColor: "#F5F5F7",
     padding: 10,
   },
   header: {
@@ -119,7 +129,7 @@ const styles = StyleSheet.create({
     justifyContent: "space-between",
     alignItems: "center",
     padding: 10,
-    backgroundColor: "#f0f0f0",
+    backgroundColor: "#E0E0E0",
   },
   leftSection: {
     flexDirection: "row",
@@ -132,25 +142,28 @@ const styles = StyleSheet.create({
     flex: 1,
   },
   welcomeText: {
-    fontSize: 16,
+    fontSize: 18,
     fontWeight: "bold",
+    color: "#333",
   },
   userName: {
     fontSize: 16,
-    color: "#666",
+    color: "#555",
   },
   searchBar: {
     height: 40,
-    borderColor: "#ccc",
-    borderWidth: 1,
+    padding: 10,
+    fontSize: 16,
+    backgroundColor: "#F5F5F7",
     borderRadius: 10,
-    paddingHorizontal: 10,
-    paddingVertical: 5,
+    borderColor: "#E0E0E0",
+    borderWidth: 1,
     marginVertical: 10,
   },
   sectionTitle: {
     fontSize: 24,
     fontWeight: "bold",
+    color: "#333",
     marginVertical: 10,
   },
   newsOptions: {
@@ -171,17 +184,18 @@ const styles = StyleSheet.create({
   newsLabel: {
     fontSize: 18,
     fontWeight: "bold",
+    color: "#333",
   },
   seeAllTextLabel: {
     fontSize: 16,
-    color: "#666",
+    color: "#007BFF",
   },
   flatListContainer: {
-    padding: 5,
+    padding: 10,
   },
   errorText: {
     fontSize: 18,
-    color: "red",
+    color: "#FF0000",
     textAlign: "center",
   },
 });
